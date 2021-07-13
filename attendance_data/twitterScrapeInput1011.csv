@@ -1,0 +1,1312 @@
+Start Date,End Date,Visitor/Neutral,Home/Neutral
+2010-10-26,2010-10-28,Miami Heat,Boston Celtics
+2010-10-26,2010-10-28,Phoenix Suns,Portland Trail Blazers
+2010-10-26,2010-10-28,Houston Rockets,Los Angeles Lakers
+2010-10-27,2010-10-29,Boston Celtics,Cleveland Cavaliers
+2010-10-27,2010-10-29,New York Knicks,Toronto Raptors
+2010-10-27,2010-10-29,Miami Heat,Philadelphia 76ers
+2010-10-27,2010-10-29,Detroit Pistons,New Jersey Nets
+2010-10-27,2010-10-29,Chicago Bulls,Oklahoma City Thunder
+2010-10-27,2010-10-29,Milwaukee Bucks,New Orleans Hornets
+2010-10-27,2010-10-29,Sacramento Kings,Minnesota Timberwolves
+2010-10-27,2010-10-29,Atlanta Hawks,Memphis Grizzlies
+2010-10-27,2010-10-29,Indiana Pacers,San Antonio Spurs
+2010-10-27,2010-10-29,Charlotte Bobcats,Dallas Mavericks
+2010-10-27,2010-10-29,Utah Jazz,Denver Nuggets
+2010-10-27,2010-10-29,Portland Trail Blazers,Los Angeles Clippers
+2010-10-27,2010-10-29,Houston Rockets,Golden State Warriors
+2010-10-28,2010-10-30,Washington Wizards,Orlando Magic
+2010-10-28,2010-10-30,Phoenix Suns,Utah Jazz
+2010-10-29,2010-10-31,Indiana Pacers,Charlotte Bobcats
+2010-10-29,2010-10-31,Cleveland Cavaliers,Toronto Raptors
+2010-10-29,2010-10-31,Atlanta Hawks,Philadelphia 76ers
+2010-10-29,2010-10-31,Sacramento Kings,New Jersey Nets
+2010-10-29,2010-10-31,New York Knicks,Boston Celtics
+2010-10-29,2010-10-31,Oklahoma City Thunder,Detroit Pistons
+2010-10-29,2010-10-31,Denver Nuggets,New Orleans Hornets
+2010-10-29,2010-10-31,Orlando Magic,Miami Heat
+2010-10-29,2010-10-31,Milwaukee Bucks,Minnesota Timberwolves
+2010-10-29,2010-10-31,Memphis Grizzlies,Dallas Mavericks
+2010-10-29,2010-10-31,Los Angeles Clippers,Golden State Warriors
+2010-10-29,2010-10-31,Los Angeles Lakers,Phoenix Suns
+2010-10-30,2010-11-1,Washington Wizards,Atlanta Hawks
+2010-10-30,2010-11-1,Portland Trail Blazers,New York Knicks
+2010-10-30,2010-11-1,Sacramento Kings,Cleveland Cavaliers
+2010-10-30,2010-11-1,Philadelphia 76ers,Indiana Pacers
+2010-10-30,2010-11-1,Minnesota Timberwolves,Memphis Grizzlies
+2010-10-30,2010-11-1,Detroit Pistons,Chicago Bulls
+2010-10-30,2010-11-1,Denver Nuggets,Houston Rockets
+2010-10-30,2010-11-1,Charlotte Bobcats,Milwaukee Bucks
+2010-10-30,2010-11-1,New Orleans Hornets,San Antonio Spurs
+2010-10-31,2010-11-2,Miami Heat,New Jersey Nets
+2010-10-31,2010-11-2,Dallas Mavericks,Los Angeles Clippers
+2010-10-31,2010-11-2,Utah Jazz,Oklahoma City Thunder
+2010-10-31,2010-11-2,Golden State Warriors,Los Angeles Lakers
+2010-11-1,2010-11-3,Portland Trail Blazers,Chicago Bulls
+2010-11-1,2010-11-3,Toronto Raptors,Sacramento Kings
+2010-11-1,2010-11-3,San Antonio Spurs,Los Angeles Clippers
+2010-11-2,2010-11-4,Atlanta Hawks,Cleveland Cavaliers
+2010-11-2,2010-11-4,Philadelphia 76ers,Washington Wizards
+2010-11-2,2010-11-4,Boston Celtics,Detroit Pistons
+2010-11-2,2010-11-4,Minnesota Timberwolves,Miami Heat
+2010-11-2,2010-11-4,Portland Trail Blazers,Milwaukee Bucks
+2010-11-2,2010-11-4,Memphis Grizzlies,Los Angeles Lakers
+2010-11-3,2010-11-5,Detroit Pistons,Atlanta Hawks
+2010-11-3,2010-11-5,Charlotte Bobcats,New Jersey Nets
+2010-11-3,2010-11-5,Minnesota Timberwolves,Orlando Magic
+2010-11-3,2010-11-5,Indiana Pacers,Philadelphia 76ers
+2010-11-3,2010-11-5,Milwaukee Bucks,Boston Celtics
+2010-11-3,2010-11-5,New Orleans Hornets,Houston Rockets
+2010-11-3,2010-11-5,Dallas Mavericks,Denver Nuggets
+2010-11-3,2010-11-5,Toronto Raptors,Utah Jazz
+2010-11-3,2010-11-5,San Antonio Spurs,Phoenix Suns
+2010-11-3,2010-11-5,Memphis Grizzlies,Golden State Warriors
+2010-11-3,2010-11-5,Oklahoma City Thunder,Los Angeles Clippers
+2010-11-3,2010-11-5,Los Angeles Lakers,Sacramento Kings
+2010-11-4,2010-11-6,New York Knicks,Chicago Bulls
+2010-11-4,2010-11-6,Oklahoma City Thunder,Portland Trail Blazers
+2010-11-5,2010-11-7,Milwaukee Bucks,Indiana Pacers
+2010-11-5,2010-11-7,New Jersey Nets,Orlando Magic
+2010-11-5,2010-11-7,Cleveland Cavaliers,Philadelphia 76ers
+2010-11-5,2010-11-7,Charlotte Bobcats,Detroit Pistons
+2010-11-5,2010-11-7,Washington Wizards,New York Knicks
+2010-11-5,2010-11-7,Chicago Bulls,Boston Celtics
+2010-11-5,2010-11-7,Atlanta Hawks,Minnesota Timberwolves
+2010-11-5,2010-11-7,Miami Heat,New Orleans Hornets
+2010-11-5,2010-11-7,Memphis Grizzlies,Phoenix Suns
+2010-11-5,2010-11-7,Los Angeles Clippers,Denver Nuggets
+2010-11-5,2010-11-7,Utah Jazz,Golden State Warriors
+2010-11-5,2010-11-7,Toronto Raptors,Los Angeles Lakers
+2010-11-6,2010-11-8,Orlando Magic,Charlotte Bobcats
+2010-11-6,2010-11-8,Cleveland Cavaliers,Washington Wizards
+2010-11-6,2010-11-8,New Jersey Nets,Miami Heat
+2010-11-6,2010-11-8,New Orleans Hornets,Milwaukee Bucks
+2010-11-6,2010-11-8,Houston Rockets,San Antonio Spurs
+2010-11-6,2010-11-8,Denver Nuggets,Dallas Mavericks
+2010-11-6,2010-11-8,Los Angeles Clippers,Utah Jazz
+2010-11-6,2010-11-8,Toronto Raptors,Portland Trail Blazers
+2010-11-6,2010-11-8,Memphis Grizzlies,Sacramento Kings
+2010-11-7,2010-11-9,Philadelphia 76ers,New York Knicks
+2010-11-7,2010-11-9,Phoenix Suns,Atlanta Hawks
+2010-11-7,2010-11-9,Golden State Warriors,Detroit Pistons
+2010-11-7,2010-11-9,Minnesota Timberwolves,Houston Rockets
+2010-11-7,2010-11-9,Boston Celtics,Oklahoma City Thunder
+2010-11-7,2010-11-9,Portland Trail Blazers,Los Angeles Lakers
+2010-11-8,2010-11-10,San Antonio Spurs,Charlotte Bobcats
+2010-11-8,2010-11-10,Atlanta Hawks,Orlando Magic
+2010-11-8,2010-11-10,Golden State Warriors,Toronto Raptors
+2010-11-8,2010-11-10,Denver Nuggets,Chicago Bulls
+2010-11-8,2010-11-10,Phoenix Suns,Memphis Grizzlies
+2010-11-8,2010-11-10,Boston Celtics,Dallas Mavericks
+2010-11-9,2010-11-11,Denver Nuggets,Indiana Pacers
+2010-11-9,2010-11-11,Cleveland Cavaliers,New Jersey Nets
+2010-11-9,2010-11-11,Utah Jazz,Miami Heat
+2010-11-9,2010-11-11,New York Knicks,Milwaukee Bucks
+2010-11-9,2010-11-11,Los Angeles Clippers,New Orleans Hornets
+2010-11-9,2010-11-11,Detroit Pistons,Portland Trail Blazers
+2010-11-9,2010-11-11,Minnesota Timberwolves,Los Angeles Lakers
+2010-11-10,2010-11-12,Milwaukee Bucks,Atlanta Hawks
+2010-11-10,2010-11-12,Utah Jazz,Orlando Magic
+2010-11-10,2010-11-12,Charlotte Bobcats,Toronto Raptors
+2010-11-10,2010-11-12,Houston Rockets,Washington Wizards
+2010-11-10,2010-11-12,New Jersey Nets,Cleveland Cavaliers
+2010-11-10,2010-11-12,Golden State Warriors,New York Knicks
+2010-11-10,2010-11-12,Dallas Mavericks,Memphis Grizzlies
+2010-11-10,2010-11-12,Philadelphia 76ers,Oklahoma City Thunder
+2010-11-10,2010-11-12,Los Angeles Clippers,San Antonio Spurs
+2010-11-10,2010-11-12,Minnesota Timberwolves,Sacramento Kings
+2010-11-11,2010-11-13,Golden State Warriors,Chicago Bulls
+2010-11-11,2010-11-13,Boston Celtics,Miami Heat
+2010-11-11,2010-11-13,Los Angeles Lakers,Denver Nuggets
+2010-11-12,2010-11-14,Utah Jazz,Atlanta Hawks
+2010-11-12,2010-11-14,Houston Rockets,Indiana Pacers
+2010-11-12,2010-11-14,Toronto Raptors,Orlando Magic
+2010-11-12,2010-11-14,Charlotte Bobcats,Washington Wizards
+2010-11-12,2010-11-14,New York Knicks,Minnesota Timberwolves
+2010-11-12,2010-11-14,Philadelphia 76ers,Dallas Mavericks
+2010-11-12,2010-11-14,Sacramento Kings,Phoenix Suns
+2010-11-12,2010-11-14,Portland Trail Blazers,Oklahoma City Thunder
+2010-11-12,2010-11-14,Detroit Pistons,Los Angeles Clippers
+2010-11-13,2010-11-15,Utah Jazz,Charlotte Bobcats
+2010-11-13,2010-11-15,Orlando Magic,New Jersey Nets
+2010-11-13,2010-11-15,Indiana Pacers,Cleveland Cavaliers
+2010-11-13,2010-11-15,Toronto Raptors,Miami Heat
+2010-11-13,2010-11-15,Washington Wizards,Chicago Bulls
+2010-11-13,2010-11-15,Boston Celtics,Memphis Grizzlies
+2010-11-13,2010-11-15,Portland Trail Blazers,New Orleans Hornets
+2010-11-13,2010-11-15,Golden State Warriors,Milwaukee Bucks
+2010-11-13,2010-11-15,Philadelphia 76ers,San Antonio Spurs
+2010-11-14,2010-11-16,Minnesota Timberwolves,Atlanta Hawks
+2010-11-14,2010-11-16,Detroit Pistons,Sacramento Kings
+2010-11-14,2010-11-16,San Antonio Spurs,Oklahoma City Thunder
+2010-11-14,2010-11-16,Houston Rockets,New York Knicks
+2010-11-14,2010-11-16,Phoenix Suns,Los Angeles Lakers
+2010-11-15,2010-11-17,Minnesota Timberwolves,Charlotte Bobcats
+2010-11-15,2010-11-17,Memphis Grizzlies,Orlando Magic
+2010-11-15,2010-11-17,New Orleans Hornets,Dallas Mavericks
+2010-11-15,2010-11-17,Denver Nuggets,Phoenix Suns
+2010-11-15,2010-11-17,Oklahoma City Thunder,Utah Jazz
+2010-11-15,2010-11-17,Detroit Pistons,Golden State Warriors
+2010-11-15,2010-11-17,New Jersey Nets,Los Angeles Clippers
+2010-11-16,2010-11-18,Philadelphia 76ers,Cleveland Cavaliers
+2010-11-16,2010-11-18,Atlanta Hawks,Indiana Pacers
+2010-11-16,2010-11-18,Toronto Raptors,Washington Wizards
+2010-11-16,2010-11-18,Portland Trail Blazers,Memphis Grizzlies
+2010-11-16,2010-11-18,Los Angeles Lakers,Milwaukee Bucks
+2010-11-16,2010-11-18,Chicago Bulls,Houston Rockets
+2010-11-16,2010-11-18,New York Knicks,Denver Nuggets
+2010-11-17,2010-11-19,Phoenix Suns,Miami Heat
+2010-11-17,2010-11-19,Toronto Raptors,Philadelphia 76ers
+2010-11-17,2010-11-19,Washington Wizards,Boston Celtics
+2010-11-17,2010-11-19,Los Angeles Lakers,Detroit Pistons
+2010-11-17,2010-11-19,Los Angeles Clippers,Minnesota Timberwolves
+2010-11-17,2010-11-19,Dallas Mavericks,New Orleans Hornets
+2010-11-17,2010-11-19,Houston Rockets,Oklahoma City Thunder
+2010-11-17,2010-11-19,New Jersey Nets,Utah Jazz
+2010-11-17,2010-11-19,Chicago Bulls,San Antonio Spurs
+2010-11-17,2010-11-19,New York Knicks,Sacramento Kings
+2010-11-18,2010-11-20,Los Angeles Clippers,Indiana Pacers
+2010-11-18,2010-11-20,Phoenix Suns,Orlando Magic
+2010-11-18,2010-11-20,Denver Nuggets,Portland Trail Blazers
+2010-11-19,2010-11-21,Oklahoma City Thunder,Boston Celtics
+2010-11-19,2010-11-21,Milwaukee Bucks,Philadelphia 76ers
+2010-11-19,2010-11-21,Houston Rockets,Toronto Raptors
+2010-11-19,2010-11-21,Memphis Grizzlies,Washington Wizards
+2010-11-19,2010-11-21,Charlotte Bobcats,Miami Heat
+2010-11-19,2010-11-21,Los Angeles Lakers,Minnesota Timberwolves
+2010-11-19,2010-11-21,Cleveland Cavaliers,New Orleans Hornets
+2010-11-19,2010-11-21,San Antonio Spurs,Utah Jazz
+2010-11-19,2010-11-21,Chicago Bulls,Dallas Mavericks
+2010-11-19,2010-11-21,New Jersey Nets,Sacramento Kings
+2010-11-19,2010-11-21,New York Knicks,Golden State Warriors
+2010-11-20,2010-11-22,Phoenix Suns,Charlotte Bobcats
+2010-11-20,2010-11-22,Orlando Magic,Indiana Pacers
+2010-11-20,2010-11-22,Dallas Mavericks,Atlanta Hawks
+2010-11-20,2010-11-22,Miami Heat,Memphis Grizzlies
+2010-11-20,2010-11-22,Oklahoma City Thunder,Milwaukee Bucks
+2010-11-20,2010-11-22,Cleveland Cavaliers,San Antonio Spurs
+2010-11-20,2010-11-22,New Jersey Nets,Denver Nuggets
+2010-11-20,2010-11-22,Utah Jazz,Portland Trail Blazers
+2010-11-20,2010-11-22,New York Knicks,Los Angeles Clippers
+2010-11-21,2010-11-23,Boston Celtics,Toronto Raptors
+2010-11-21,2010-11-23,Washington Wizards,Detroit Pistons
+2010-11-21,2010-11-23,New Orleans Hornets,Sacramento Kings
+2010-11-21,2010-11-23,Golden State Warriors,Los Angeles Lakers
+2010-11-22,2010-11-24,Boston Celtics,Atlanta Hawks
+2010-11-22,2010-11-24,Indiana Pacers,Miami Heat
+2010-11-22,2010-11-24,Minnesota Timberwolves,Oklahoma City Thunder
+2010-11-22,2010-11-24,Phoenix Suns,Houston Rockets
+2010-11-22,2010-11-24,Orlando Magic,San Antonio Spurs
+2010-11-22,2010-11-24,Sacramento Kings,Utah Jazz
+2010-11-22,2010-11-24,Denver Nuggets,Golden State Warriors
+2010-11-22,2010-11-24,New Orleans Hornets,Los Angeles Clippers
+2010-11-23,2010-11-25,Cleveland Cavaliers,Indiana Pacers
+2010-11-23,2010-11-25,Atlanta Hawks,New Jersey Nets
+2010-11-23,2010-11-25,Philadelphia 76ers,Washington Wizards
+2010-11-23,2010-11-25,Charlotte Bobcats,New York Knicks
+2010-11-23,2010-11-25,Detroit Pistons,Dallas Mavericks
+2010-11-23,2010-11-25,Chicago Bulls,Los Angeles Lakers
+2010-11-24,2010-11-26,New York Knicks,Charlotte Bobcats
+2010-11-24,2010-11-26,Milwaukee Bucks,Cleveland Cavaliers
+2010-11-24,2010-11-26,Philadelphia 76ers,Toronto Raptors
+2010-11-24,2010-11-26,New Jersey Nets,Boston Celtics
+2010-11-24,2010-11-26,Miami Heat,Orlando Magic
+2010-11-24,2010-11-26,Detroit Pistons,Memphis Grizzlies
+2010-11-24,2010-11-26,San Antonio Spurs,Minnesota Timberwolves
+2010-11-24,2010-11-26,Dallas Mavericks,Oklahoma City Thunder
+2010-11-24,2010-11-26,Golden State Warriors,Houston Rockets
+2010-11-24,2010-11-26,Chicago Bulls,Phoenix Suns
+2010-11-24,2010-11-26,New Orleans Hornets,Utah Jazz
+2010-11-25,2010-11-27,Washington Wizards,Atlanta Hawks
+2010-11-25,2010-11-27,Sacramento Kings,Los Angeles Clippers
+2010-11-26,2010-11-28,Houston Rockets,Charlotte Bobcats
+2010-11-26,2010-11-28,Cleveland Cavaliers,Orlando Magic
+2010-11-26,2010-11-28,Toronto Raptors,Boston Celtics
+2010-11-26,2010-11-28,Milwaukee Bucks,Detroit Pistons
+2010-11-26,2010-11-28,Philadelphia 76ers,Miami Heat
+2010-11-26,2010-11-28,Oklahoma City Thunder,Indiana Pacers
+2010-11-26,2010-11-28,Dallas Mavericks,San Antonio Spurs
+2010-11-26,2010-11-28,Chicago Bulls,Denver Nuggets
+2010-11-26,2010-11-28,Los Angeles Clippers,Phoenix Suns
+2010-11-26,2010-11-28,Los Angeles Lakers,Utah Jazz
+2010-11-26,2010-11-28,Golden State Warriors,Memphis Grizzlies
+2010-11-26,2010-11-28,New Orleans Hornets,Portland Trail Blazers
+2010-11-27,2010-11-29,Atlanta Hawks,New York Knicks
+2010-11-27,2010-11-29,Orlando Magic,Washington Wizards
+2010-11-27,2010-11-29,Memphis Grizzlies,Cleveland Cavaliers
+2010-11-27,2010-11-29,New Jersey Nets,Philadelphia 76ers
+2010-11-27,2010-11-29,Golden State Warriors,Minnesota Timberwolves
+2010-11-27,2010-11-29,Miami Heat,Dallas Mavericks
+2010-11-27,2010-11-29,Charlotte Bobcats,Milwaukee Bucks
+2010-11-27,2010-11-29,Chicago Bulls,Sacramento Kings
+2010-11-28,2010-11-30,Atlanta Hawks,Toronto Raptors
+2010-11-28,2010-11-30,New York Knicks,Detroit Pistons
+2010-11-28,2010-11-30,San Antonio Spurs,New Orleans Hornets
+2010-11-28,2010-11-30,Utah Jazz,Los Angeles Clippers
+2010-11-28,2010-11-30,Oklahoma City Thunder,Houston Rockets
+2010-11-28,2010-11-30,Portland Trail Blazers,New Jersey Nets
+2010-11-28,2010-11-30,Phoenix Suns,Denver Nuggets
+2010-11-28,2010-11-30,Indiana Pacers,Los Angeles Lakers
+2010-11-29,2010-12-1,Washington Wizards,Miami Heat
+2010-11-29,2010-12-1,New Orleans Hornets,Oklahoma City Thunder
+2010-11-29,2010-12-1,Houston Rockets,Dallas Mavericks
+2010-11-29,2010-12-1,Milwaukee Bucks,Utah Jazz
+2010-11-30,2010-12-2,Boston Celtics,Cleveland Cavaliers
+2010-11-30,2010-12-2,Detroit Pistons,Orlando Magic
+2010-11-30,2010-12-2,Portland Trail Blazers,Philadelphia 76ers
+2010-11-30,2010-12-2,New Jersey Nets,New York Knicks
+2010-11-30,2010-12-2,Los Angeles Lakers,Memphis Grizzlies
+2010-11-30,2010-12-2,Indiana Pacers,Sacramento Kings
+2010-11-30,2010-12-2,San Antonio Spurs,Golden State Warriors
+2010-12-1,2010-12-3,Memphis Grizzlies,Atlanta Hawks
+2010-12-1,2010-12-3,Oklahoma City Thunder,New Jersey Nets
+2010-12-1,2010-12-3,Washington Wizards,Toronto Raptors
+2010-12-1,2010-12-3,Portland Trail Blazers,Boston Celtics
+2010-12-1,2010-12-3,Detroit Pistons,Miami Heat
+2010-12-1,2010-12-3,Orlando Magic,Chicago Bulls
+2010-12-1,2010-12-3,Charlotte Bobcats,New Orleans Hornets
+2010-12-1,2010-12-3,Minnesota Timberwolves,Dallas Mavericks
+2010-12-1,2010-12-3,Los Angeles Lakers,Houston Rockets
+2010-12-1,2010-12-3,Milwaukee Bucks,Denver Nuggets
+2010-12-1,2010-12-3,Indiana Pacers,Utah Jazz
+2010-12-1,2010-12-3,San Antonio Spurs,Los Angeles Clippers
+2010-12-2,2010-12-4,Miami Heat,Cleveland Cavaliers
+2010-12-2,2010-12-4,Phoenix Suns,Golden State Warriors
+2010-12-3,2010-12-5,New Jersey Nets,Charlotte Bobcats
+2010-12-3,2010-12-5,Oklahoma City Thunder,Toronto Raptors
+2010-12-3,2010-12-5,Portland Trail Blazers,Washington Wizards
+2010-12-3,2010-12-5,Philadelphia 76ers,Atlanta Hawks
+2010-12-3,2010-12-5,Orlando Magic,Detroit Pistons
+2010-12-3,2010-12-5,Chicago Bulls,Boston Celtics
+2010-12-3,2010-12-5,Houston Rockets,Memphis Grizzlies
+2010-12-3,2010-12-5,New York Knicks,New Orleans Hornets
+2010-12-3,2010-12-5,Minnesota Timberwolves,San Antonio Spurs
+2010-12-3,2010-12-5,Los Angeles Clippers,Denver Nuggets
+2010-12-3,2010-12-5,Indiana Pacers,Phoenix Suns
+2010-12-3,2010-12-5,Sacramento Kings,Los Angeles Lakers
+2010-12-3,2010-12-5,Dallas Mavericks,Utah Jazz
+2010-12-4,2010-12-6,Atlanta Hawks,Miami Heat
+2010-12-4,2010-12-6,Charlotte Bobcats,Philadelphia 76ers
+2010-12-4,2010-12-6,Houston Rockets,Chicago Bulls
+2010-12-4,2010-12-6,Cleveland Cavaliers,Minnesota Timberwolves
+2010-12-4,2010-12-6,Orlando Magic,Milwaukee Bucks
+2010-12-4,2010-12-6,Dallas Mavericks,Sacramento Kings
+2010-12-5,2010-12-7,Boston Celtics,New Jersey Nets
+2010-12-5,2010-12-7,New York Knicks,Toronto Raptors
+2010-12-5,2010-12-7,Cleveland Cavaliers,Detroit Pistons
+2010-12-5,2010-12-7,Golden State Warriors,Oklahoma City Thunder
+2010-12-5,2010-12-7,New Orleans Hornets,San Antonio Spurs
+2010-12-5,2010-12-7,Memphis Grizzlies,Denver Nuggets
+2010-12-5,2010-12-7,Washington Wizards,Phoenix Suns
+2010-12-5,2010-12-7,Los Angeles Clippers,Portland Trail Blazers
+2010-12-6,2010-12-8,Toronto Raptors,Indiana Pacers
+2010-12-6,2010-12-8,Atlanta Hawks,Orlando Magic
+2010-12-6,2010-12-8,Minnesota Timberwolves,New York Knicks
+2010-12-6,2010-12-8,Oklahoma City Thunder,Chicago Bulls
+2010-12-6,2010-12-8,Miami Heat,Milwaukee Bucks
+2010-12-6,2010-12-8,Memphis Grizzlies,Utah Jazz
+2010-12-6,2010-12-8,Sacramento Kings,Los Angeles Clippers
+2010-12-7,2010-12-9,New Jersey Nets,Atlanta Hawks
+2010-12-7,2010-12-9,Denver Nuggets,Charlotte Bobcats
+2010-12-7,2010-12-9,Cleveland Cavaliers,Philadelphia 76ers
+2010-12-7,2010-12-9,Golden State Warriors,Dallas Mavericks
+2010-12-7,2010-12-9,Detroit Pistons,Houston Rockets
+2010-12-7,2010-12-9,Phoenix Suns,Portland Trail Blazers
+2010-12-7,2010-12-9,Washington Wizards,Los Angeles Lakers
+2010-12-8,2010-12-10,Denver Nuggets,Boston Celtics
+2010-12-8,2010-12-10,Chicago Bulls,Cleveland Cavaliers
+2010-12-8,2010-12-10,Toronto Raptors,New York Knicks
+2010-12-8,2010-12-10,Indiana Pacers,Milwaukee Bucks
+2010-12-8,2010-12-10,Oklahoma City Thunder,Minnesota Timberwolves
+2010-12-8,2010-12-10,Detroit Pistons,New Orleans Hornets
+2010-12-8,2010-12-10,Golden State Warriors,San Antonio Spurs
+2010-12-8,2010-12-10,Memphis Grizzlies,Phoenix Suns
+2010-12-8,2010-12-10,Miami Heat,Utah Jazz
+2010-12-8,2010-12-10,Washington Wizards,Sacramento Kings
+2010-12-8,2010-12-10,Los Angeles Lakers,Los Angeles Clippers
+2010-12-9,2010-12-11,Boston Celtics,Philadelphia 76ers
+2010-12-9,2010-12-11,New Jersey Nets,Dallas Mavericks
+2010-12-9,2010-12-11,Orlando Magic,Portland Trail Blazers
+2010-12-10,2010-12-12,Charlotte Bobcats,Indiana Pacers
+2010-12-10,2010-12-12,Denver Nuggets,Toronto Raptors
+2010-12-10,2010-12-12,New York Knicks,Washington Wizards
+2010-12-10,2010-12-12,Los Angeles Lakers,Chicago Bulls
+2010-12-10,2010-12-12,Detroit Pistons,Minnesota Timberwolves
+2010-12-10,2010-12-12,Oklahoma City Thunder,New Orleans Hornets
+2010-12-10,2010-12-12,Houston Rockets,Milwaukee Bucks
+2010-12-10,2010-12-12,Atlanta Hawks,San Antonio Spurs
+2010-12-10,2010-12-12,Portland Trail Blazers,Phoenix Suns
+2010-12-10,2010-12-12,Orlando Magic,Utah Jazz
+2010-12-10,2010-12-12,Miami Heat,Golden State Warriors
+2010-12-11,2010-12-13,Memphis Grizzlies,Los Angeles Clippers
+2010-12-11,2010-12-13,Indiana Pacers,Atlanta Hawks
+2010-12-11,2010-12-13,Boston Celtics,Charlotte Bobcats
+2010-12-11,2010-12-13,Toronto Raptors,Detroit Pistons
+2010-12-11,2010-12-13,Minnesota Timberwolves,Chicago Bulls
+2010-12-11,2010-12-13,Utah Jazz,Dallas Mavericks
+2010-12-11,2010-12-13,Cleveland Cavaliers,Houston Rockets
+2010-12-11,2010-12-13,Miami Heat,Sacramento Kings
+2010-12-12,2010-12-14,Denver Nuggets,New York Knicks
+2010-12-12,2010-12-14,New Orleans Hornets,Philadelphia 76ers
+2010-12-12,2010-12-14,Los Angeles Lakers,New Jersey Nets
+2010-12-12,2010-12-14,Portland Trail Blazers,San Antonio Spurs
+2010-12-12,2010-12-14,Cleveland Cavaliers,Oklahoma City Thunder
+2010-12-12,2010-12-14,Orlando Magic,Los Angeles Clippers
+2010-12-13,2010-12-15,New Orleans Hornets,Miami Heat
+2010-12-13,2010-12-15,Indiana Pacers,Chicago Bulls
+2010-12-13,2010-12-15,Portland Trail Blazers,Memphis Grizzlies
+2010-12-13,2010-12-15,Milwaukee Bucks,Dallas Mavericks
+2010-12-13,2010-12-15,Golden State Warriors,Utah Jazz
+2010-12-14,2010-12-16,Toronto Raptors,Charlotte Bobcats
+2010-12-14,2010-12-16,Philadelphia 76ers,New Jersey Nets
+2010-12-14,2010-12-16,Los Angeles Lakers,Washington Wizards
+2010-12-14,2010-12-16,Atlanta Hawks,Detroit Pistons
+2010-12-14,2010-12-16,Sacramento Kings,Houston Rockets
+2010-12-14,2010-12-16,Orlando Magic,Denver Nuggets
+2010-12-14,2010-12-16,Minnesota Timberwolves,Golden State Warriors
+2010-12-15,2010-12-17,Los Angeles Lakers,Indiana Pacers
+2010-12-15,2010-12-17,Boston Celtics,New York Knicks
+2010-12-15,2010-12-17,Los Angeles Clippers,Philadelphia 76ers
+2010-12-15,2010-12-17,Chicago Bulls,Toronto Raptors
+2010-12-15,2010-12-17,Cleveland Cavaliers,Miami Heat
+2010-12-15,2010-12-17,Charlotte Bobcats,Memphis Grizzlies
+2010-12-15,2010-12-17,Sacramento Kings,New Orleans Hornets
+2010-12-15,2010-12-17,Houston Rockets,Oklahoma City Thunder
+2010-12-15,2010-12-17,Milwaukee Bucks,San Antonio Spurs
+2010-12-15,2010-12-17,Minnesota Timberwolves,Phoenix Suns
+2010-12-15,2010-12-17,Portland Trail Blazers,Dallas Mavericks
+2010-12-16,2010-12-18,Washington Wizards,New Jersey Nets
+2010-12-16,2010-12-18,Atlanta Hawks,Boston Celtics
+2010-12-16,2010-12-18,San Antonio Spurs,Denver Nuggets
+2010-12-17,2010-12-19,Cleveland Cavaliers,Indiana Pacers
+2010-12-17,2010-12-19,Miami Heat,New York Knicks
+2010-12-17,2010-12-19,Los Angeles Lakers,Philadelphia 76ers
+2010-12-17,2010-12-19,New Jersey Nets,Toronto Raptors
+2010-12-17,2010-12-19,Charlotte Bobcats,Atlanta Hawks
+2010-12-17,2010-12-19,Los Angeles Clippers,Detroit Pistons
+2010-12-17,2010-12-19,Utah Jazz,New Orleans Hornets
+2010-12-17,2010-12-19,Sacramento Kings,Oklahoma City Thunder
+2010-12-17,2010-12-19,Memphis Grizzlies,Houston Rockets
+2010-12-17,2010-12-19,Phoenix Suns,Dallas Mavericks
+2010-12-17,2010-12-19,Minnesota Timberwolves,Portland Trail Blazers
+2010-12-18,2010-12-20,Philadelphia 76ers,Orlando Magic
+2010-12-18,2010-12-20,Miami Heat,Washington Wizards
+2010-12-18,2010-12-20,New York Knicks,Cleveland Cavaliers
+2010-12-18,2010-12-20,Los Angeles Clippers,Chicago Bulls
+2010-12-18,2010-12-20,Utah Jazz,Milwaukee Bucks
+2010-12-18,2010-12-20,Memphis Grizzlies,San Antonio Spurs
+2010-12-18,2010-12-20,Minnesota Timberwolves,Denver Nuggets
+2010-12-18,2010-12-20,Golden State Warriors,Portland Trail Blazers
+2010-12-19,2010-12-21,Indiana Pacers,Boston Celtics
+2010-12-19,2010-12-21,Atlanta Hawks,New Jersey Nets
+2010-12-19,2010-12-21,Los Angeles Lakers,Toronto Raptors
+2010-12-19,2010-12-21,New Orleans Hornets,Detroit Pistons
+2010-12-19,2010-12-21,Houston Rockets,Sacramento Kings
+2010-12-19,2010-12-21,Phoenix Suns,Oklahoma City Thunder
+2010-12-20,2010-12-22,Orlando Magic,Atlanta Hawks
+2010-12-20,2010-12-22,Utah Jazz,Cleveland Cavaliers
+2010-12-20,2010-12-22,New Orleans Hornets,Indiana Pacers
+2010-12-20,2010-12-22,Charlotte Bobcats,Washington Wizards
+2010-12-20,2010-12-22,Dallas Mavericks,Miami Heat
+2010-12-20,2010-12-22,Phoenix Suns,San Antonio Spurs
+2010-12-20,2010-12-22,Milwaukee Bucks,Portland Trail Blazers
+2010-12-20,2010-12-22,Houston Rockets,Golden State Warriors
+2010-12-20,2010-12-22,Minnesota Timberwolves,Los Angeles Clippers
+2010-12-21,2010-12-23,Oklahoma City Thunder,Charlotte Bobcats
+2010-12-21,2010-12-23,Dallas Mavericks,Orlando Magic
+2010-12-21,2010-12-23,Philadelphia 76ers,Chicago Bulls
+2010-12-21,2010-12-23,New Jersey Nets,Memphis Grizzlies
+2010-12-21,2010-12-23,Golden State Warriors,Sacramento Kings
+2010-12-21,2010-12-23,Milwaukee Bucks,Los Angeles Lakers
+2010-12-22,2010-12-24,Cleveland Cavaliers,Atlanta Hawks
+2010-12-22,2010-12-24,Detroit Pistons,Toronto Raptors
+2010-12-22,2010-12-24,Chicago Bulls,Washington Wizards
+2010-12-22,2010-12-24,Philadelphia 76ers,Boston Celtics
+2010-12-22,2010-12-24,Oklahoma City Thunder,New York Knicks
+2010-12-22,2010-12-24,Utah Jazz,Minnesota Timberwolves
+2010-12-22,2010-12-24,New Jersey Nets,New Orleans Hornets
+2010-12-22,2010-12-24,Denver Nuggets,San Antonio Spurs
+2010-12-22,2010-12-24,Houston Rockets,Los Angeles Clippers
+2010-12-23,2010-12-25,San Antonio Spurs,Orlando Magic
+2010-12-23,2010-12-25,Milwaukee Bucks,Sacramento Kings
+2010-12-23,2010-12-25,Miami Heat,Phoenix Suns
+2010-12-25,2010-12-27,Chicago Bulls,New York Knicks
+2010-12-25,2010-12-27,Boston Celtics,Orlando Magic
+2010-12-25,2010-12-27,Miami Heat,Los Angeles Lakers
+2010-12-25,2010-12-27,Denver Nuggets,Oklahoma City Thunder
+2010-12-25,2010-12-27,Portland Trail Blazers,Golden State Warriors
+2010-12-26,2010-12-28,Phoenix Suns,Los Angeles Clippers
+2010-12-26,2010-12-28,Minnesota Timberwolves,Cleveland Cavaliers
+2010-12-26,2010-12-28,Chicago Bulls,Detroit Pistons
+2010-12-26,2010-12-28,Memphis Grizzlies,Indiana Pacers
+2010-12-26,2010-12-28,Atlanta Hawks,New Orleans Hornets
+2010-12-26,2010-12-28,Washington Wizards,San Antonio Spurs
+2010-12-26,2010-12-28,Philadelphia 76ers,Denver Nuggets
+2010-12-27,2010-12-29,Detroit Pistons,Charlotte Bobcats
+2010-12-27,2010-12-29,Orlando Magic,New Jersey Nets
+2010-12-27,2010-12-29,Toronto Raptors,Memphis Grizzlies
+2010-12-27,2010-12-29,Atlanta Hawks,Milwaukee Bucks
+2010-12-27,2010-12-29,New Orleans Hornets,Minnesota Timberwolves
+2010-12-27,2010-12-29,Dallas Mavericks,Oklahoma City Thunder
+2010-12-27,2010-12-29,Washington Wizards,Houston Rockets
+2010-12-27,2010-12-29,Portland Trail Blazers,Utah Jazz
+2010-12-27,2010-12-29,Los Angeles Clippers,Sacramento Kings
+2010-12-27,2010-12-29,Philadelphia 76ers,Golden State Warriors
+2010-12-28,2010-12-30,Orlando Magic,Cleveland Cavaliers
+2010-12-28,2010-12-30,Boston Celtics,Indiana Pacers
+2010-12-28,2010-12-30,New York Knicks,Miami Heat
+2010-12-28,2010-12-30,Milwaukee Bucks,Chicago Bulls
+2010-12-28,2010-12-30,Toronto Raptors,Dallas Mavericks
+2010-12-28,2010-12-30,Los Angeles Lakers,San Antonio Spurs
+2010-12-28,2010-12-30,Portland Trail Blazers,Denver Nuggets
+2010-12-29,2010-12-31,Golden State Warriors,Atlanta Hawks
+2010-12-29,2010-12-31,Cleveland Cavaliers,Charlotte Bobcats
+2010-12-29,2010-12-31,Indiana Pacers,Washington Wizards
+2010-12-29,2010-12-31,Boston Celtics,Detroit Pistons
+2010-12-29,2010-12-31,Denver Nuggets,Minnesota Timberwolves
+2010-12-29,2010-12-31,Los Angeles Lakers,New Orleans Hornets
+2010-12-29,2010-12-31,New Jersey Nets,Oklahoma City Thunder
+2010-12-29,2010-12-31,Miami Heat,Houston Rockets
+2010-12-29,2010-12-31,Philadelphia 76ers,Phoenix Suns
+2010-12-29,2010-12-31,Memphis Grizzlies,Sacramento Kings
+2010-12-29,2010-12-31,Utah Jazz,Los Angeles Clippers
+2010-12-30,2011-1-1,New York Knicks,Orlando Magic
+2010-12-30,2011-1-1,San Antonio Spurs,Dallas Mavericks
+2010-12-30,2011-1-1,Utah Jazz,Portland Trail Blazers
+2010-12-31,2011-1-2,New Orleans Hornets,Boston Celtics
+2010-12-31,2011-1-2,Golden State Warriors,Charlotte Bobcats
+2010-12-31,2011-1-2,New Jersey Nets,Chicago Bulls
+2010-12-31,2011-1-2,Washington Wizards,Indiana Pacers
+2010-12-31,2011-1-2,Toronto Raptors,Houston Rockets
+2010-12-31,2011-1-2,Atlanta Hawks,Oklahoma City Thunder
+2010-12-31,2011-1-2,Detroit Pistons,Phoenix Suns
+2010-12-31,2011-1-2,Philadelphia 76ers,Los Angeles Lakers
+2011-1-1,2011-1-3,Cleveland Cavaliers,Chicago Bulls
+2011-1-1,2011-1-3,New Orleans Hornets,Washington Wizards
+2011-1-1,2011-1-3,Golden State Warriors,Miami Heat
+2011-1-1,2011-1-3,New Jersey Nets,Minnesota Timberwolves
+2011-1-1,2011-1-3,Oklahoma City Thunder,San Antonio Spurs
+2011-1-1,2011-1-3,Sacramento Kings,Denver Nuggets
+2011-1-1,2011-1-3,Dallas Mavericks,Milwaukee Bucks
+2011-1-1,2011-1-3,Memphis Grizzlies,Utah Jazz
+2011-1-2,2011-1-4,Indiana Pacers,New York Knicks
+2011-1-2,2011-1-4,Atlanta Hawks,Los Angeles Clippers
+2011-1-2,2011-1-4,Boston Celtics,Toronto Raptors
+2011-1-2,2011-1-4,Dallas Mavericks,Cleveland Cavaliers
+2011-1-2,2011-1-4,Houston Rockets,Portland Trail Blazers
+2011-1-2,2011-1-4,Phoenix Suns,Sacramento Kings
+2011-1-2,2011-1-4,Memphis Grizzlies,Los Angeles Lakers
+2011-1-3,2011-1-5,Miami Heat,Charlotte Bobcats
+2011-1-3,2011-1-5,Golden State Warriors,Orlando Magic
+2011-1-3,2011-1-5,Minnesota Timberwolves,Boston Celtics
+2011-1-3,2011-1-5,Philadelphia 76ers,New Orleans Hornets
+2011-1-3,2011-1-5,Houston Rockets,Denver Nuggets
+2011-1-3,2011-1-5,Detroit Pistons,Utah Jazz
+2011-1-4,2011-1-6,Milwaukee Bucks,Miami Heat
+2011-1-4,2011-1-6,San Antonio Spurs,New York Knicks
+2011-1-4,2011-1-6,Toronto Raptors,Chicago Bulls
+2011-1-4,2011-1-6,Oklahoma City Thunder,Memphis Grizzlies
+2011-1-4,2011-1-6,Portland Trail Blazers,Dallas Mavericks
+2011-1-4,2011-1-6,Atlanta Hawks,Sacramento Kings
+2011-1-4,2011-1-6,Detroit Pistons,Los Angeles Lakers
+2011-1-5,2011-1-7,Toronto Raptors,Cleveland Cavaliers
+2011-1-5,2011-1-7,Chicago Bulls,New Jersey Nets
+2011-1-5,2011-1-7,Milwaukee Bucks,Orlando Magic
+2011-1-5,2011-1-7,Washington Wizards,Philadelphia 76ers
+2011-1-5,2011-1-7,San Antonio Spurs,Boston Celtics
+2011-1-5,2011-1-7,Charlotte Bobcats,Minnesota Timberwolves
+2011-1-5,2011-1-7,Golden State Warriors,New Orleans Hornets
+2011-1-5,2011-1-7,Portland Trail Blazers,Houston Rockets
+2011-1-5,2011-1-7,Atlanta Hawks,Utah Jazz
+2011-1-5,2011-1-7,Denver Nuggets,Los Angeles Clippers
+2011-1-5,2011-1-7,Los Angeles Lakers,Phoenix Suns
+2011-1-6,2011-1-8,Oklahoma City Thunder,Dallas Mavericks
+2011-1-6,2011-1-8,Denver Nuggets,Sacramento Kings
+2011-1-7,2011-1-9,San Antonio Spurs,Indiana Pacers
+2011-1-7,2011-1-9,Chicago Bulls,Philadelphia 76ers
+2011-1-7,2011-1-9,New Jersey Nets,Washington Wizards
+2011-1-7,2011-1-9,Toronto Raptors,Boston Celtics
+2011-1-7,2011-1-9,Utah Jazz,Memphis Grizzlies
+2011-1-7,2011-1-9,Portland Trail Blazers,Minnesota Timberwolves
+2011-1-7,2011-1-9,Houston Rockets,Orlando Magic
+2011-1-7,2011-1-9,Miami Heat,Milwaukee Bucks
+2011-1-7,2011-1-9,Cleveland Cavaliers,Golden State Warriors
+2011-1-7,2011-1-9,New Orleans Hornets,Los Angeles Lakers
+2011-1-7,2011-1-9,New York Knicks,Phoenix Suns
+2011-1-8,2011-1-10,Indiana Pacers,Atlanta Hawks
+2011-1-8,2011-1-10,Washington Wizards,Charlotte Bobcats
+2011-1-8,2011-1-10,Milwaukee Bucks,New Jersey Nets
+2011-1-8,2011-1-10,Philadelphia 76ers,Detroit Pistons
+2011-1-8,2011-1-10,Boston Celtics,Chicago Bulls
+2011-1-8,2011-1-10,Memphis Grizzlies,Oklahoma City Thunder
+2011-1-8,2011-1-10,Orlando Magic,Dallas Mavericks
+2011-1-8,2011-1-10,Utah Jazz,Houston Rockets
+2011-1-9,2011-1-11,Sacramento Kings,Toronto Raptors
+2011-1-9,2011-1-11,Golden State Warriors,Los Angeles Clippers
+2011-1-9,2011-1-11,Minnesota Timberwolves,San Antonio Spurs
+2011-1-9,2011-1-11,Cleveland Cavaliers,Phoenix Suns
+2011-1-9,2011-1-11,New Orleans Hornets,Denver Nuggets
+2011-1-9,2011-1-11,Miami Heat,Portland Trail Blazers
+2011-1-9,2011-1-11,New York Knicks,Los Angeles Lakers
+2011-1-10,2011-1-12,Memphis Grizzlies,Charlotte Bobcats
+2011-1-10,2011-1-12,Houston Rockets,Boston Celtics
+2011-1-10,2011-1-12,Detroit Pistons,Chicago Bulls
+2011-1-11,2011-1-13,Indiana Pacers,Philadelphia 76ers
+2011-1-11,2011-1-13,Sacramento Kings,Washington Wizards
+2011-1-11,2011-1-13,San Antonio Spurs,Minnesota Timberwolves
+2011-1-11,2011-1-13,Phoenix Suns,Denver Nuggets
+2011-1-11,2011-1-13,New York Knicks,Portland Trail Blazers
+2011-1-11,2011-1-13,Cleveland Cavaliers,Los Angeles Lakers
+2011-1-12,2011-1-14,Chicago Bulls,Charlotte Bobcats
+2011-1-12,2011-1-14,Dallas Mavericks,Indiana Pacers
+2011-1-12,2011-1-14,Atlanta Hawks,Toronto Raptors
+2011-1-12,2011-1-14,Sacramento Kings,Boston Celtics
+2011-1-12,2011-1-14,Memphis Grizzlies,Detroit Pistons
+2011-1-12,2011-1-14,San Antonio Spurs,Milwaukee Bucks
+2011-1-12,2011-1-14,Orlando Magic,New Orleans Hornets
+2011-1-12,2011-1-14,Oklahoma City Thunder,Houston Rockets
+2011-1-12,2011-1-14,New Jersey Nets,Phoenix Suns
+2011-1-12,2011-1-14,New York Knicks,Utah Jazz
+2011-1-12,2011-1-14,Los Angeles Lakers,Golden State Warriors
+2011-1-12,2011-1-14,Miami Heat,Los Angeles Clippers
+2011-1-13,2011-1-15,Washington Wizards,Minnesota Timberwolves
+2011-1-13,2011-1-15,Orlando Magic,Oklahoma City Thunder
+2011-1-13,2011-1-15,Miami Heat,Denver Nuggets
+2011-1-14,2011-1-16,Chicago Bulls,Indiana Pacers
+2011-1-14,2011-1-16,Milwaukee Bucks,Philadelphia 76ers
+2011-1-14,2011-1-16,Detroit Pistons,Toronto Raptors
+2011-1-14,2011-1-16,Charlotte Bobcats,Boston Celtics
+2011-1-14,2011-1-16,Sacramento Kings,New York Knicks
+2011-1-14,2011-1-16,Dallas Mavericks,San Antonio Spurs
+2011-1-14,2011-1-16,New Orleans Hornets,Houston Rockets
+2011-1-14,2011-1-16,Cleveland Cavaliers,Utah Jazz
+2011-1-14,2011-1-16,Los Angeles Clippers,Golden State Warriors
+2011-1-14,2011-1-16,New Jersey Nets,Los Angeles Lakers
+2011-1-14,2011-1-16,Portland Trail Blazers,Phoenix Suns
+2011-1-15,2011-1-17,Houston Rockets,Atlanta Hawks
+2011-1-15,2011-1-17,New Orleans Hornets,Charlotte Bobcats
+2011-1-15,2011-1-17,Toronto Raptors,Washington Wizards
+2011-1-15,2011-1-17,Sacramento Kings,Detroit Pistons
+2011-1-15,2011-1-17,Miami Heat,Chicago Bulls
+2011-1-15,2011-1-17,Dallas Mavericks,Memphis Grizzlies
+2011-1-15,2011-1-17,Orlando Magic,Minnesota Timberwolves
+2011-1-15,2011-1-17,Cleveland Cavaliers,Denver Nuggets
+2011-1-15,2011-1-17,New Jersey Nets,Portland Trail Blazers
+2011-1-16,2011-1-18,Los Angeles Lakers,Los Angeles Clippers
+2011-1-16,2011-1-18,Denver Nuggets,San Antonio Spurs
+2011-1-17,2011-1-19,Chicago Bulls,Memphis Grizzlies
+2011-1-17,2011-1-19,Phoenix Suns,New York Knicks
+2011-1-17,2011-1-19,Utah Jazz,Washington Wizards
+2011-1-17,2011-1-19,Charlotte Bobcats,Philadelphia 76ers
+2011-1-17,2011-1-19,Milwaukee Bucks,Houston Rockets
+2011-1-17,2011-1-19,Toronto Raptors,New Orleans Hornets
+2011-1-17,2011-1-19,Dallas Mavericks,Detroit Pistons
+2011-1-17,2011-1-19,Indiana Pacers,Los Angeles Clippers
+2011-1-17,2011-1-19,Sacramento Kings,Atlanta Hawks
+2011-1-17,2011-1-19,New Jersey Nets,Golden State Warriors
+2011-1-17,2011-1-19,Orlando Magic,Boston Celtics
+2011-1-17,2011-1-19,Minnesota Timberwolves,Portland Trail Blazers
+2011-1-17,2011-1-19,Oklahoma City Thunder,Los Angeles Lakers
+2011-1-18,2011-1-20,Atlanta Hawks,Miami Heat
+2011-1-18,2011-1-20,Charlotte Bobcats,Chicago Bulls
+2011-1-19,2011-1-21,Phoenix Suns,Cleveland Cavaliers
+2011-1-19,2011-1-21,Utah Jazz,New Jersey Nets
+2011-1-19,2011-1-21,Philadelphia 76ers,Orlando Magic
+2011-1-19,2011-1-21,Detroit Pistons,Boston Celtics
+2011-1-19,2011-1-21,Washington Wizards,Milwaukee Bucks
+2011-1-19,2011-1-21,Memphis Grizzlies,New Orleans Hornets
+2011-1-19,2011-1-21,New York Knicks,Houston Rockets
+2011-1-19,2011-1-21,Toronto Raptors,San Antonio Spurs
+2011-1-19,2011-1-21,Los Angeles Lakers,Dallas Mavericks
+2011-1-19,2011-1-21,Oklahoma City Thunder,Denver Nuggets
+2011-1-19,2011-1-21,Portland Trail Blazers,Sacramento Kings
+2011-1-19,2011-1-21,Indiana Pacers,Golden State Warriors
+2011-1-19,2011-1-21,Minnesota Timberwolves,Los Angeles Clippers
+2011-1-20,2011-1-22,Philadelphia 76ers,Charlotte Bobcats
+2011-1-20,2011-1-22,Dallas Mavericks,Chicago Bulls
+2011-1-20,2011-1-22,Los Angeles Clippers,Portland Trail Blazers
+2011-1-21,2011-1-23,Detroit Pistons,New Jersey Nets
+2011-1-21,2011-1-23,Toronto Raptors,Orlando Magic
+2011-1-21,2011-1-23,Phoenix Suns,Washington Wizards
+2011-1-21,2011-1-23,New Orleans Hornets,Atlanta Hawks
+2011-1-21,2011-1-23,Utah Jazz,Boston Celtics
+2011-1-21,2011-1-23,Milwaukee Bucks,Cleveland Cavaliers
+2011-1-21,2011-1-23,Houston Rockets,Memphis Grizzlies
+2011-1-21,2011-1-23,New York Knicks,San Antonio Spurs
+2011-1-21,2011-1-23,Los Angeles Lakers,Denver Nuggets
+2011-1-21,2011-1-23,Sacramento Kings,Golden State Warriors
+2011-1-22,2011-1-24,Atlanta Hawks,Charlotte Bobcats
+2011-1-22,2011-1-24,Dallas Mavericks,New Jersey Nets
+2011-1-22,2011-1-24,Boston Celtics,Washington Wizards
+2011-1-22,2011-1-24,Phoenix Suns,Detroit Pistons
+2011-1-22,2011-1-24,Toronto Raptors,Miami Heat
+2011-1-22,2011-1-24,Utah Jazz,Philadelphia 76ers
+2011-1-22,2011-1-24,Cleveland Cavaliers,Chicago Bulls
+2011-1-22,2011-1-24,San Antonio Spurs,New Orleans Hornets
+2011-1-22,2011-1-24,New York Knicks,Oklahoma City Thunder
+2011-1-22,2011-1-24,Orlando Magic,Houston Rockets
+2011-1-22,2011-1-24,Memphis Grizzlies,Milwaukee Bucks
+2011-1-22,2011-1-24,Indiana Pacers,Portland Trail Blazers
+2011-1-22,2011-1-24,Golden State Warriors,Los Angeles Clippers
+2011-1-23,2011-1-25,Indiana Pacers,Denver Nuggets
+2011-1-24,2011-1-26,Cleveland Cavaliers,New Jersey Nets
+2011-1-24,2011-1-26,Detroit Pistons,Orlando Magic
+2011-1-24,2011-1-26,Phoenix Suns,Philadelphia 76ers
+2011-1-24,2011-1-26,Memphis Grizzlies,Toronto Raptors
+2011-1-24,2011-1-26,Washington Wizards,New York Knicks
+2011-1-24,2011-1-26,Milwaukee Bucks,Chicago Bulls
+2011-1-24,2011-1-26,Houston Rockets,Minnesota Timberwolves
+2011-1-24,2011-1-26,Oklahoma City Thunder,New Orleans Hornets
+2011-1-24,2011-1-26,Sacramento Kings,Portland Trail Blazers
+2011-1-24,2011-1-26,San Antonio Spurs,Golden State Warriors
+2011-1-25,2011-1-27,Denver Nuggets,Washington Wizards
+2011-1-25,2011-1-27,Cleveland Cavaliers,Boston Celtics
+2011-1-25,2011-1-27,Los Angeles Clippers,Dallas Mavericks
+2011-1-25,2011-1-27,Charlotte Bobcats,Sacramento Kings
+2011-1-25,2011-1-27,Utah Jazz,Los Angeles Lakers
+2011-1-26,2011-1-28,Orlando Magic,Indiana Pacers
+2011-1-26,2011-1-28,Memphis Grizzlies,New Jersey Nets
+2011-1-26,2011-1-28,Philadelphia 76ers,Toronto Raptors
+2011-1-26,2011-1-28,Denver Nuggets,Detroit Pistons
+2011-1-26,2011-1-28,Atlanta Hawks,Milwaukee Bucks
+2011-1-26,2011-1-28,Oklahoma City Thunder,Minnesota Timberwolves
+2011-1-26,2011-1-28,Los Angeles Clippers,Houston Rockets
+2011-1-26,2011-1-28,Charlotte Bobcats,Phoenix Suns
+2011-1-26,2011-1-28,San Antonio Spurs,Utah Jazz
+2011-1-26,2011-1-28,New Orleans Hornets,Golden State Warriors
+2011-1-27,2011-1-29,Miami Heat,New York Knicks
+2011-1-27,2011-1-29,Houston Rockets,Dallas Mavericks
+2011-1-27,2011-1-29,Boston Celtics,Portland Trail Blazers
+2011-1-28,2011-1-30,New Jersey Nets,Indiana Pacers
+2011-1-28,2011-1-30,Memphis Grizzlies,Philadelphia 76ers
+2011-1-28,2011-1-30,Milwaukee Bucks,Toronto Raptors
+2011-1-28,2011-1-30,New York Knicks,Atlanta Hawks
+2011-1-28,2011-1-30,Denver Nuggets,Cleveland Cavaliers
+2011-1-28,2011-1-30,Detroit Pistons,Miami Heat
+2011-1-28,2011-1-30,Orlando Magic,Chicago Bulls
+2011-1-28,2011-1-30,Washington Wizards,Oklahoma City Thunder
+2011-1-28,2011-1-30,Minnesota Timberwolves,Utah Jazz
+2011-1-28,2011-1-30,Charlotte Bobcats,Golden State Warriors
+2011-1-28,2011-1-30,Sacramento Kings,Los Angeles Lakers
+2011-1-28,2011-1-30,Boston Celtics,Phoenix Suns
+2011-1-29,2011-1-31,Indiana Pacers,Chicago Bulls
+2011-1-29,2011-1-31,Washington Wizards,Memphis Grizzlies
+2011-1-29,2011-1-31,Toronto Raptors,Minnesota Timberwolves
+2011-1-29,2011-1-31,Atlanta Hawks,Dallas Mavericks
+2011-1-29,2011-1-31,New Jersey Nets,Milwaukee Bucks
+2011-1-29,2011-1-31,Houston Rockets,San Antonio Spurs
+2011-1-29,2011-1-31,New Orleans Hornets,Sacramento Kings
+2011-1-29,2011-1-31,Charlotte Bobcats,Los Angeles Clippers
+2011-1-30,2011-2-1,Miami Heat,Oklahoma City Thunder
+2011-1-30,2011-2-1,Boston Celtics,Los Angeles Lakers
+2011-1-30,2011-2-1,Cleveland Cavaliers,Orlando Magic
+2011-1-30,2011-2-1,Denver Nuggets,Philadelphia 76ers
+2011-1-30,2011-2-1,Detroit Pistons,New York Knicks
+2011-1-30,2011-2-1,New Orleans Hornets,Phoenix Suns
+2011-1-30,2011-2-1,Utah Jazz,Golden State Warriors
+2011-1-31,2011-2-2,Toronto Raptors,Indiana Pacers
+2011-1-31,2011-2-2,Denver Nuggets,New Jersey Nets
+2011-1-31,2011-2-2,Cleveland Cavaliers,Miami Heat
+2011-1-31,2011-2-2,Orlando Magic,Memphis Grizzlies
+2011-1-31,2011-2-2,Washington Wizards,Dallas Mavericks
+2011-1-31,2011-2-2,Charlotte Bobcats,Utah Jazz
+2011-1-31,2011-2-2,Milwaukee Bucks,Los Angeles Clippers
+2011-2-1,2011-2-3,Washington Wizards,New Orleans Hornets
+2011-2-1,2011-2-3,San Antonio Spurs,Portland Trail Blazers
+2011-2-1,2011-2-3,Boston Celtics,Sacramento Kings
+2011-2-1,2011-2-3,Houston Rockets,Los Angeles Lakers
+2011-2-2,2011-2-4,Toronto Raptors,Atlanta Hawks
+2011-2-2,2011-2-4,Indiana Pacers,Cleveland Cavaliers
+2011-2-2,2011-2-4,Philadelphia 76ers,New Jersey Nets
+2011-2-2,2011-2-4,Charlotte Bobcats,Detroit Pistons
+2011-2-2,2011-2-4,Dallas Mavericks,New York Knicks
+2011-2-2,2011-2-4,Memphis Grizzlies,Minnesota Timberwolves
+2011-2-2,2011-2-4,New Orleans Hornets,Oklahoma City Thunder
+2011-2-2,2011-2-4,Portland Trail Blazers,Denver Nuggets
+2011-2-2,2011-2-4,Milwaukee Bucks,Phoenix Suns
+2011-2-2,2011-2-4,Houston Rockets,Utah Jazz
+2011-2-2,2011-2-4,Chicago Bulls,Los Angeles Clippers
+2011-2-3,2011-2-5,Miami Heat,Orlando Magic
+2011-2-3,2011-2-5,Milwaukee Bucks,Golden State Warriors
+2011-2-3,2011-2-5,San Antonio Spurs,Los Angeles Lakers
+2011-2-4,2011-2-6,Miami Heat,Charlotte Bobcats
+2011-2-4,2011-2-6,Portland Trail Blazers,Indiana Pacers
+2011-2-4,2011-2-6,New York Knicks,Philadelphia 76ers
+2011-2-4,2011-2-6,Minnesota Timberwolves,Toronto Raptors
+2011-2-4,2011-2-6,Orlando Magic,Washington Wizards
+2011-2-4,2011-2-6,Los Angeles Clippers,Atlanta Hawks
+2011-2-4,2011-2-6,New Jersey Nets,Detroit Pistons
+2011-2-4,2011-2-6,Dallas Mavericks,Boston Celtics
+2011-2-4,2011-2-6,Cleveland Cavaliers,Memphis Grizzlies
+2011-2-4,2011-2-6,Oklahoma City Thunder,Phoenix Suns
+2011-2-4,2011-2-6,San Antonio Spurs,Sacramento Kings
+2011-2-4,2011-2-6,Utah Jazz,Denver Nuggets
+2011-2-5,2011-2-7,Dallas Mavericks,Charlotte Bobcats
+2011-2-5,2011-2-7,Atlanta Hawks,Washington Wizards
+2011-2-5,2011-2-7,Portland Trail Blazers,Cleveland Cavaliers
+2011-2-5,2011-2-7,Los Angeles Lakers,New Orleans Hornets
+2011-2-5,2011-2-7,Memphis Grizzlies,Houston Rockets
+2011-2-5,2011-2-7,Detroit Pistons,Milwaukee Bucks
+2011-2-5,2011-2-7,Denver Nuggets,Minnesota Timberwolves
+2011-2-5,2011-2-7,Oklahoma City Thunder,Utah Jazz
+2011-2-5,2011-2-7,Chicago Bulls,Golden State Warriors
+2011-2-6,2011-2-8,Los Angeles Clippers,Miami Heat
+2011-2-6,2011-2-8,Indiana Pacers,New Jersey Nets
+2011-2-6,2011-2-8,Philadelphia 76ers,New York Knicks
+2011-2-6,2011-2-8,Orlando Magic,Boston Celtics
+2011-2-7,2011-2-9,Boston Celtics,Charlotte Bobcats
+2011-2-7,2011-2-9,Los Angeles Lakers,Memphis Grizzlies
+2011-2-7,2011-2-9,Minnesota Timberwolves,New Orleans Hornets
+2011-2-7,2011-2-9,Cleveland Cavaliers,Dallas Mavericks
+2011-2-7,2011-2-9,Houston Rockets,Denver Nuggets
+2011-2-7,2011-2-9,Chicago Bulls,Portland Trail Blazers
+2011-2-7,2011-2-9,Utah Jazz,Sacramento Kings
+2011-2-7,2011-2-9,Phoenix Suns,Golden State Warriors
+2011-2-8,2011-2-10,Philadelphia 76ers,Atlanta Hawks
+2011-2-8,2011-2-10,Los Angeles Clippers,Orlando Magic
+2011-2-8,2011-2-10,San Antonio Spurs,Detroit Pistons
+2011-2-8,2011-2-10,Indiana Pacers,Miami Heat
+2011-2-8,2011-2-10,Toronto Raptors,Milwaukee Bucks
+2011-2-8,2011-2-10,Memphis Grizzlies,Oklahoma City Thunder
+2011-2-8,2011-2-10,Minnesota Timberwolves,Houston Rockets
+2011-2-9,2011-2-11,Detroit Pistons,Cleveland Cavaliers
+2011-2-9,2011-2-11,Charlotte Bobcats,Indiana Pacers
+2011-2-9,2011-2-11,New Orleans Hornets,New Jersey Nets
+2011-2-9,2011-2-11,Orlando Magic,Philadelphia 76ers
+2011-2-9,2011-2-11,San Antonio Spurs,Toronto Raptors
+2011-2-9,2011-2-11,Milwaukee Bucks,Washington Wizards
+2011-2-9,2011-2-11,Los Angeles Clippers,New York Knicks
+2011-2-9,2011-2-11,Chicago Bulls,Utah Jazz
+2011-2-9,2011-2-11,Dallas Mavericks,Sacramento Kings
+2011-2-9,2011-2-11,Denver Nuggets,Golden State Warriors
+2011-2-10,2011-2-12,Los Angeles Lakers,Boston Celtics
+2011-2-10,2011-2-12,Golden State Warriors,Phoenix Suns
+2011-2-10,2011-2-12,Dallas Mavericks,Denver Nuggets
+2011-2-11,2011-2-13,New Jersey Nets,Charlotte Bobcats
+2011-2-11,2011-2-13,Minnesota Timberwolves,Indiana Pacers
+2011-2-11,2011-2-13,New Orleans Hornets,Orlando Magic
+2011-2-11,2011-2-13,San Antonio Spurs,Philadelphia 76ers
+2011-2-11,2011-2-13,Portland Trail Blazers,Toronto Raptors
+2011-2-11,2011-2-13,Los Angeles Clippers,Cleveland Cavaliers
+2011-2-11,2011-2-13,Miami Heat,Detroit Pistons
+2011-2-11,2011-2-13,Milwaukee Bucks,Memphis Grizzlies
+2011-2-11,2011-2-13,Los Angeles Lakers,New York Knicks
+2011-2-11,2011-2-13,Phoenix Suns,Utah Jazz
+2011-2-12,2011-2-14,Charlotte Bobcats,Atlanta Hawks
+2011-2-12,2011-2-14,New York Knicks,New Jersey Nets
+2011-2-12,2011-2-14,Philadelphia 76ers,Minnesota Timberwolves
+2011-2-12,2011-2-14,Chicago Bulls,New Orleans Hornets
+2011-2-12,2011-2-14,San Antonio Spurs,Washington Wizards
+2011-2-12,2011-2-14,Dallas Mavericks,Houston Rockets
+2011-2-12,2011-2-14,Indiana Pacers,Milwaukee Bucks
+2011-2-12,2011-2-14,Oklahoma City Thunder,Sacramento Kings
+2011-2-13,2011-2-15,Miami Heat,Boston Celtics
+2011-2-13,2011-2-15,Los Angeles Lakers,Orlando Magic
+2011-2-13,2011-2-15,Washington Wizards,Cleveland Cavaliers
+2011-2-13,2011-2-15,Portland Trail Blazers,Detroit Pistons
+2011-2-13,2011-2-15,Denver Nuggets,Memphis Grizzlies
+2011-2-13,2011-2-15,Los Angeles Clippers,Toronto Raptors
+2011-2-13,2011-2-15,Oklahoma City Thunder,Golden State Warriors
+2011-2-13,2011-2-15,Sacramento Kings,Phoenix Suns
+2011-2-14,2011-2-16,Los Angeles Lakers,Charlotte Bobcats
+2011-2-14,2011-2-16,San Antonio Spurs,New Jersey Nets
+2011-2-14,2011-2-16,Atlanta Hawks,Detroit Pistons
+2011-2-14,2011-2-16,Los Angeles Clippers,Milwaukee Bucks
+2011-2-14,2011-2-16,Portland Trail Blazers,Minnesota Timberwolves
+2011-2-14,2011-2-16,Denver Nuggets,Houston Rockets
+2011-2-15,2011-2-17,Miami Heat,Indiana Pacers
+2011-2-15,2011-2-17,Charlotte Bobcats,Chicago Bulls
+2011-2-15,2011-2-17,Philadelphia 76ers,Memphis Grizzlies
+2011-2-15,2011-2-17,Sacramento Kings,Oklahoma City Thunder
+2011-2-15,2011-2-17,Utah Jazz,Phoenix Suns
+2011-2-15,2011-2-17,New Orleans Hornets,Golden State Warriors
+2011-2-16,2011-2-18,Washington Wizards,Orlando Magic
+2011-2-16,2011-2-18,Miami Heat,Toronto Raptors
+2011-2-16,2011-2-18,New Jersey Nets,Boston Celtics
+2011-2-16,2011-2-18,Los Angeles Lakers,Cleveland Cavaliers
+2011-2-16,2011-2-18,Indiana Pacers,Detroit Pistons
+2011-2-16,2011-2-18,Atlanta Hawks,New York Knicks
+2011-2-16,2011-2-18,Los Angeles Clippers,Minnesota Timberwolves
+2011-2-16,2011-2-18,Sacramento Kings,Dallas Mavericks
+2011-2-16,2011-2-18,Philadelphia 76ers,Houston Rockets
+2011-2-16,2011-2-18,Denver Nuggets,Milwaukee Bucks
+2011-2-16,2011-2-18,Golden State Warriors,Utah Jazz
+2011-2-16,2011-2-18,New Orleans Hornets,Portland Trail Blazers
+2011-2-17,2011-2-19,San Antonio Spurs,Chicago Bulls
+2011-2-17,2011-2-19,Dallas Mavericks,Phoenix Suns
+2011-2-22,2011-2-24,Toronto Raptors,Charlotte Bobcats
+2011-2-22,2011-2-24,Indiana Pacers,Washington Wizards
+2011-2-22,2011-2-24,Houston Rockets,Detroit Pistons
+2011-2-22,2011-2-24,Sacramento Kings,Miami Heat
+2011-2-22,2011-2-24,Minnesota Timberwolves,Milwaukee Bucks
+2011-2-22,2011-2-24,Los Angeles Clippers,Oklahoma City Thunder
+2011-2-22,2011-2-24,Memphis Grizzlies,Denver Nuggets
+2011-2-22,2011-2-24,Boston Celtics,Golden State Warriors
+2011-2-22,2011-2-24,Atlanta Hawks,Los Angeles Lakers
+2011-2-23,2011-2-25,Houston Rockets,Cleveland Cavaliers
+2011-2-23,2011-2-25,Detroit Pistons,Indiana Pacers
+2011-2-23,2011-2-25,Sacramento Kings,Orlando Magic
+2011-2-23,2011-2-25,Washington Wizards,Philadelphia 76ers
+2011-2-23,2011-2-25,Oklahoma City Thunder,San Antonio Spurs
+2011-2-23,2011-2-25,Chicago Bulls,Toronto Raptors
+2011-2-23,2011-2-25,Milwaukee Bucks,New York Knicks
+2011-2-23,2011-2-25,Memphis Grizzlies,Minnesota Timberwolves
+2011-2-23,2011-2-25,Utah Jazz,Dallas Mavericks
+2011-2-23,2011-2-25,Atlanta Hawks,Phoenix Suns
+2011-2-23,2011-2-25,Los Angeles Clippers,New Orleans Hornets
+2011-2-23,2011-2-25,Los Angeles Lakers,Portland Trail Blazers
+2011-2-24,2011-2-26,Miami Heat,Chicago Bulls
+2011-2-24,2011-2-26,Boston Celtics,Denver Nuggets
+2011-2-25,2011-2-27,Sacramento Kings,Charlotte Bobcats
+2011-2-25,2011-2-27,Utah Jazz,Indiana Pacers
+2011-2-25,2011-2-27,Detroit Pistons,Philadelphia 76ers
+2011-2-25,2011-2-27,Phoenix Suns,Toronto Raptors
+2011-2-25,2011-2-27,New York Knicks,Cleveland Cavaliers
+2011-2-25,2011-2-27,Washington Wizards,Miami Heat
+2011-2-25,2011-2-27,New Orleans Hornets,Minnesota Timberwolves
+2011-2-25,2011-2-27,Oklahoma City Thunder,Orlando Magic
+2011-2-25,2011-2-27,New Jersey Nets,San Antonio Spurs
+2011-2-25,2011-2-27,Atlanta Hawks,Golden State Warriors
+2011-2-25,2011-2-27,Los Angeles Clippers,Los Angeles Lakers
+2011-2-25,2011-2-27,Denver Nuggets,Portland Trail Blazers
+2011-2-26,2011-2-28,Utah Jazz,Detroit Pistons
+2011-2-26,2011-2-28,Sacramento Kings,Memphis Grizzlies
+2011-2-26,2011-2-28,Dallas Mavericks,Washington Wizards
+2011-2-26,2011-2-28,New Jersey Nets,Houston Rockets
+2011-2-26,2011-2-28,Chicago Bulls,Milwaukee Bucks
+2011-2-26,2011-2-28,Boston Celtics,Los Angeles Clippers
+2011-2-27,2011-3-1,Phoenix Suns,Indiana Pacers
+2011-2-27,2011-3-1,Los Angeles Lakers,Oklahoma City Thunder
+2011-2-27,2011-3-1,Philadelphia 76ers,Cleveland Cavaliers
+2011-2-27,2011-3-1,Golden State Warriors,Minnesota Timberwolves
+2011-2-27,2011-3-1,Charlotte Bobcats,Orlando Magic
+2011-2-27,2011-3-1,Dallas Mavericks,Toronto Raptors
+2011-2-27,2011-3-1,Houston Rockets,New Orleans Hornets
+2011-2-27,2011-3-1,Memphis Grizzlies,San Antonio Spurs
+2011-2-27,2011-3-1,New York Knicks,Miami Heat
+2011-2-27,2011-3-1,Atlanta Hawks,Portland Trail Blazers
+2011-2-28,2011-3-2,Phoenix Suns,New Jersey Nets
+2011-2-28,2011-3-2,Chicago Bulls,Washington Wizards
+2011-2-28,2011-3-2,Atlanta Hawks,Denver Nuggets
+2011-2-28,2011-3-2,Boston Celtics,Utah Jazz
+2011-2-28,2011-3-2,Los Angeles Clippers,Sacramento Kings
+2011-3-1,2011-3-3,Golden State Warriors,Indiana Pacers
+2011-3-1,2011-3-3,New York Knicks,Orlando Magic
+2011-3-1,2011-3-3,Dallas Mavericks,Philadelphia 76ers
+2011-3-1,2011-3-3,New Orleans Hornets,Toronto Raptors
+2011-3-1,2011-3-3,San Antonio Spurs,Memphis Grizzlies
+2011-3-1,2011-3-3,Detroit Pistons,Milwaukee Bucks
+2011-3-1,2011-3-3,Los Angeles Lakers,Minnesota Timberwolves
+2011-3-1,2011-3-3,Houston Rockets,Portland Trail Blazers
+2011-3-2,2011-3-4,Chicago Bulls,Atlanta Hawks
+2011-3-2,2011-3-4,San Antonio Spurs,Cleveland Cavaliers
+2011-3-2,2011-3-4,Golden State Warriors,Washington Wizards
+2011-3-2,2011-3-4,Phoenix Suns,Boston Celtics
+2011-3-2,2011-3-4,Minnesota Timberwolves,Detroit Pistons
+2011-3-2,2011-3-4,New Orleans Hornets,New York Knicks
+2011-3-2,2011-3-4,Indiana Pacers,Oklahoma City Thunder
+2011-3-2,2011-3-4,Charlotte Bobcats,Denver Nuggets
+2011-3-2,2011-3-4,Portland Trail Blazers,Sacramento Kings
+2011-3-2,2011-3-4,Houston Rockets,Los Angeles Clippers
+2011-3-3,2011-3-5,Orlando Magic,Miami Heat
+2011-3-3,2011-3-5,Denver Nuggets,Utah Jazz
+2011-3-4,2011-3-6,Toronto Raptors,New Jersey Nets
+2011-3-4,2011-3-6,Chicago Bulls,Orlando Magic
+2011-3-4,2011-3-6,Minnesota Timberwolves,Philadelphia 76ers
+2011-3-4,2011-3-6,Oklahoma City Thunder,Atlanta Hawks
+2011-3-4,2011-3-6,Golden State Warriors,Boston Celtics
+2011-3-4,2011-3-6,Cleveland Cavaliers,New York Knicks
+2011-3-4,2011-3-6,New Orleans Hornets,Memphis Grizzlies
+2011-3-4,2011-3-6,Indiana Pacers,Dallas Mavericks
+2011-3-4,2011-3-6,Phoenix Suns,Milwaukee Bucks
+2011-3-4,2011-3-6,Miami Heat,San Antonio Spurs
+2011-3-4,2011-3-6,Charlotte Bobcats,Los Angeles Lakers
+2011-3-5,2011-3-7,Toronto Raptors,New Jersey Nets
+2011-3-5,2011-3-7,Minnesota Timberwolves,Washington Wizards
+2011-3-5,2011-3-7,Indiana Pacers,Houston Rockets
+2011-3-5,2011-3-7,Sacramento Kings,Utah Jazz
+2011-3-5,2011-3-7,Charlotte Bobcats,Portland Trail Blazers
+2011-3-5,2011-3-7,Denver Nuggets,Los Angeles Clippers
+2011-3-6,2011-3-8,Chicago Bulls,Miami Heat
+2011-3-6,2011-3-8,Los Angeles Lakers,San Antonio Spurs
+2011-3-6,2011-3-8,Washington Wizards,Detroit Pistons
+2011-3-6,2011-3-8,Golden State Warriors,Philadelphia 76ers
+2011-3-6,2011-3-8,New York Knicks,Atlanta Hawks
+2011-3-6,2011-3-8,New Orleans Hornets,Cleveland Cavaliers
+2011-3-6,2011-3-8,Phoenix Suns,Oklahoma City Thunder
+2011-3-6,2011-3-8,Memphis Grizzlies,Dallas Mavericks
+2011-3-6,2011-3-8,Boston Celtics,Milwaukee Bucks
+2011-3-7,2011-3-9,Los Angeles Clippers,Charlotte Bobcats
+2011-3-7,2011-3-9,Portland Trail Blazers,Orlando Magic
+2011-3-7,2011-3-9,Utah Jazz,New York Knicks
+2011-3-7,2011-3-9,New Orleans Hornets,Chicago Bulls
+2011-3-7,2011-3-9,Oklahoma City Thunder,Memphis Grizzlies
+2011-3-7,2011-3-9,Dallas Mavericks,Minnesota Timberwolves
+2011-3-7,2011-3-9,Houston Rockets,Sacramento Kings
+2011-3-8,2011-3-10,Los Angeles Lakers,Atlanta Hawks
+2011-3-8,2011-3-10,Golden State Warriors,Cleveland Cavaliers
+2011-3-8,2011-3-10,Philadelphia 76ers,Indiana Pacers
+2011-3-8,2011-3-10,Milwaukee Bucks,Washington Wizards
+2011-3-8,2011-3-10,Portland Trail Blazers,Miami Heat
+2011-3-8,2011-3-10,Houston Rockets,Phoenix Suns
+2011-3-9,2011-3-11,Chicago Bulls,Charlotte Bobcats
+2011-3-9,2011-3-11,Golden State Warriors,New Jersey Nets
+2011-3-9,2011-3-11,Oklahoma City Thunder,Philadelphia 76ers
+2011-3-9,2011-3-11,Utah Jazz,Toronto Raptors
+2011-3-9,2011-3-11,Los Angeles Clippers,Boston Celtics
+2011-3-9,2011-3-11,New York Knicks,Memphis Grizzlies
+2011-3-9,2011-3-11,Cleveland Cavaliers,Milwaukee Bucks
+2011-3-9,2011-3-11,Indiana Pacers,Minnesota Timberwolves
+2011-3-9,2011-3-11,Dallas Mavericks,New Orleans Hornets
+2011-3-9,2011-3-11,Detroit Pistons,San Antonio Spurs
+2011-3-9,2011-3-11,Orlando Magic,Sacramento Kings
+2011-3-10,2011-3-12,Los Angeles Lakers,Miami Heat
+2011-3-10,2011-3-12,New York Knicks,Dallas Mavericks
+2011-3-10,2011-3-12,Denver Nuggets,Phoenix Suns
+2011-3-11,2011-3-13,Portland Trail Blazers,Charlotte Bobcats
+2011-3-11,2011-3-13,Los Angeles Clippers,New Jersey Nets
+2011-3-11,2011-3-13,Boston Celtics,Philadelphia 76ers
+2011-3-11,2011-3-13,Indiana Pacers,Toronto Raptors
+2011-3-11,2011-3-13,Atlanta Hawks,Chicago Bulls
+2011-3-11,2011-3-13,Utah Jazz,Minnesota Timberwolves
+2011-3-11,2011-3-13,Detroit Pistons,Oklahoma City Thunder
+2011-3-11,2011-3-13,Sacramento Kings,San Antonio Spurs
+2011-3-11,2011-3-13,Orlando Magic,Golden State Warriors
+2011-3-12,2011-3-14,Memphis Grizzlies,Miami Heat
+2011-3-12,2011-3-14,Portland Trail Blazers,Atlanta Hawks
+2011-3-12,2011-3-14,Los Angeles Clippers,Washington Wizards
+2011-3-12,2011-3-14,Utah Jazz,Chicago Bulls
+2011-3-12,2011-3-14,Philadelphia 76ers,Milwaukee Bucks
+2011-3-12,2011-3-14,Sacramento Kings,New Orleans Hornets
+2011-3-12,2011-3-14,San Antonio Spurs,Houston Rockets
+2011-3-12,2011-3-14,Los Angeles Lakers,Dallas Mavericks
+2011-3-12,2011-3-14,Detroit Pistons,Denver Nuggets
+2011-3-13,2011-3-15,Oklahoma City Thunder,Cleveland Cavaliers
+2011-3-13,2011-3-15,Charlotte Bobcats,Toronto Raptors
+2011-3-13,2011-3-15,Orlando Magic,Phoenix Suns
+2011-3-13,2011-3-15,Milwaukee Bucks,Boston Celtics
+2011-3-13,2011-3-15,Indiana Pacers,New York Knicks
+2011-3-13,2011-3-15,Minnesota Timberwolves,Golden State Warriors
+2011-3-14,2011-3-16,Boston Celtics,New Jersey Nets
+2011-3-14,2011-3-16,Oklahoma City Thunder,Washington Wizards
+2011-3-14,2011-3-16,Los Angeles Clippers,Memphis Grizzlies
+2011-3-14,2011-3-16,San Antonio Spurs,Miami Heat
+2011-3-14,2011-3-16,Denver Nuggets,New Orleans Hornets
+2011-3-14,2011-3-16,Phoenix Suns,Houston Rockets
+2011-3-14,2011-3-16,Philadelphia 76ers,Utah Jazz
+2011-3-14,2011-3-16,Golden State Warriors,Sacramento Kings
+2011-3-14,2011-3-16,Orlando Magic,Los Angeles Lakers
+2011-3-15,2011-3-17,Milwaukee Bucks,Atlanta Hawks
+2011-3-15,2011-3-17,New York Knicks,Indiana Pacers
+2011-3-15,2011-3-17,Washington Wizards,Chicago Bulls
+2011-3-15,2011-3-17,Dallas Mavericks,Portland Trail Blazers
+2011-3-16,2011-3-18,Denver Nuggets,Atlanta Hawks
+2011-3-16,2011-3-18,Indiana Pacers,Boston Celtics
+2011-3-16,2011-3-18,Toronto Raptors,Detroit Pistons
+2011-3-16,2011-3-18,Oklahoma City Thunder,Miami Heat
+2011-3-16,2011-3-18,Orlando Magic,Milwaukee Bucks
+2011-3-16,2011-3-18,Phoenix Suns,New Orleans Hornets
+2011-3-16,2011-3-18,Charlotte Bobcats,Houston Rockets
+2011-3-16,2011-3-18,Minnesota Timberwolves,Utah Jazz
+2011-3-16,2011-3-18,Cleveland Cavaliers,Sacramento Kings
+2011-3-16,2011-3-18,Dallas Mavericks,Golden State Warriors
+2011-3-16,2011-3-18,Philadelphia 76ers,Los Angeles Clippers
+2011-3-17,2011-3-19,Chicago Bulls,New Jersey Nets
+2011-3-17,2011-3-19,Memphis Grizzlies,New York Knicks
+2011-3-17,2011-3-19,Cleveland Cavaliers,Portland Trail Blazers
+2011-3-18,2011-3-20,Chicago Bulls,Indiana Pacers
+2011-3-18,2011-3-20,Denver Nuggets,Orlando Magic
+2011-3-18,2011-3-20,Washington Wizards,Toronto Raptors
+2011-3-18,2011-3-20,Miami Heat,Atlanta Hawks
+2011-3-18,2011-3-20,New York Knicks,Detroit Pistons
+2011-3-18,2011-3-20,Charlotte Bobcats,Oklahoma City Thunder
+2011-3-18,2011-3-20,San Antonio Spurs,Dallas Mavericks
+2011-3-18,2011-3-20,Boston Celtics,Houston Rockets
+2011-3-18,2011-3-20,New Jersey Nets,Milwaukee Bucks
+2011-3-18,2011-3-20,Golden State Warriors,Phoenix Suns
+2011-3-18,2011-3-20,Philadelphia 76ers,Sacramento Kings
+2011-3-18,2011-3-20,Minnesota Timberwolves,Los Angeles Lakers
+2011-3-19,2011-3-21,Cleveland Cavaliers,Los Angeles Clippers
+2011-3-19,2011-3-21,Denver Nuggets,Miami Heat
+2011-3-19,2011-3-21,Indiana Pacers,Memphis Grizzlies
+2011-3-19,2011-3-21,Boston Celtics,New Orleans Hornets
+2011-3-19,2011-3-21,Charlotte Bobcats,San Antonio Spurs
+2011-3-19,2011-3-21,Philadelphia 76ers,Portland Trail Blazers
+2011-3-20,2011-3-22,New Jersey Nets,Washington Wizards
+2011-3-20,2011-3-22,Detroit Pistons,Atlanta Hawks
+2011-3-20,2011-3-22,New York Knicks,Milwaukee Bucks
+2011-3-20,2011-3-22,Phoenix Suns,Los Angeles Clippers
+2011-3-20,2011-3-22,Sacramento Kings,Minnesota Timberwolves
+2011-3-20,2011-3-22,Utah Jazz,Houston Rockets
+2011-3-20,2011-3-22,Toronto Raptors,Oklahoma City Thunder
+2011-3-20,2011-3-22,Golden State Warriors,Dallas Mavericks
+2011-3-20,2011-3-22,Portland Trail Blazers,Los Angeles Lakers
+2011-3-21,2011-3-23,Orlando Magic,Cleveland Cavaliers
+2011-3-21,2011-3-23,Indiana Pacers,New Jersey Nets
+2011-3-21,2011-3-23,Boston Celtics,New York Knicks
+2011-3-21,2011-3-23,Sacramento Kings,Chicago Bulls
+2011-3-21,2011-3-23,Utah Jazz,Memphis Grizzlies
+2011-3-21,2011-3-23,Golden State Warriors,San Antonio Spurs
+2011-3-21,2011-3-23,Toronto Raptors,Denver Nuggets
+2011-3-22,2011-3-24,Chicago Bulls,Atlanta Hawks
+2011-3-22,2011-3-24,Washington Wizards,Portland Trail Blazers
+2011-3-22,2011-3-24,Phoenix Suns,Los Angeles Lakers
+2011-3-23,2011-3-25,Indiana Pacers,Charlotte Bobcats
+2011-3-23,2011-3-25,New Jersey Nets,Cleveland Cavaliers
+2011-3-23,2011-3-25,Atlanta Hawks,Philadelphia 76ers
+2011-3-23,2011-3-25,Memphis Grizzlies,Boston Celtics
+2011-3-23,2011-3-25,Miami Heat,Detroit Pistons
+2011-3-23,2011-3-25,Sacramento Kings,Milwaukee Bucks
+2011-3-23,2011-3-25,Orlando Magic,New York Knicks
+2011-3-23,2011-3-25,Utah Jazz,Oklahoma City Thunder
+2011-3-23,2011-3-25,Golden State Warriors,Houston Rockets
+2011-3-23,2011-3-25,Toronto Raptors,Phoenix Suns
+2011-3-23,2011-3-25,San Antonio Spurs,Denver Nuggets
+2011-3-23,2011-3-25,Washington Wizards,Los Angeles Clippers
+2011-3-24,2011-3-26,Minnesota Timberwolves,Dallas Mavericks
+2011-3-24,2011-3-26,New Orleans Hornets,Utah Jazz
+2011-3-25,2011-3-27,Sacramento Kings,Indiana Pacers
+2011-3-25,2011-3-27,New Jersey Nets,Orlando Magic
+2011-3-25,2011-3-27,Charlotte Bobcats,Boston Celtics
+2011-3-25,2011-3-27,Detroit Pistons,Cleveland Cavaliers
+2011-3-25,2011-3-27,Philadelphia 76ers,Miami Heat
+2011-3-25,2011-3-27,Milwaukee Bucks,New York Knicks
+2011-3-25,2011-3-27,Memphis Grizzlies,Chicago Bulls
+2011-3-25,2011-3-27,Minnesota Timberwolves,Oklahoma City Thunder
+2011-3-25,2011-3-27,Washington Wizards,Denver Nuggets
+2011-3-25,2011-3-27,New Orleans Hornets,Phoenix Suns
+2011-3-25,2011-3-27,San Antonio Spurs,Portland Trail Blazers
+2011-3-25,2011-3-27,Toronto Raptors,Golden State Warriors
+2011-3-25,2011-3-27,Los Angeles Clippers,Los Angeles Lakers
+2011-3-26,2011-3-28,New Jersey Nets,Atlanta Hawks
+2011-3-26,2011-3-28,New York Knicks,Charlotte Bobcats
+2011-3-26,2011-3-28,Indiana Pacers,Detroit Pistons
+2011-3-26,2011-3-28,Chicago Bulls,Milwaukee Bucks
+2011-3-26,2011-3-28,Dallas Mavericks,Utah Jazz
+2011-3-26,2011-3-28,Toronto Raptors,Los Angeles Clippers
+2011-3-27,2011-3-29,Sacramento Kings,Philadelphia 76ers
+2011-3-27,2011-3-29,Atlanta Hawks,Cleveland Cavaliers
+2011-3-27,2011-3-29,San Antonio Spurs,Memphis Grizzlies
+2011-3-27,2011-3-29,Houston Rockets,Miami Heat
+2011-3-27,2011-3-29,Boston Celtics,Minnesota Timberwolves
+2011-3-27,2011-3-29,Portland Trail Blazers,Oklahoma City Thunder
+2011-3-27,2011-3-29,Washington Wizards,Golden State Warriors
+2011-3-27,2011-3-29,New Orleans Hornets,Los Angeles Lakers
+2011-3-27,2011-3-29,Dallas Mavericks,Phoenix Suns
+2011-3-28,2011-3-30,Milwaukee Bucks,Charlotte Bobcats
+2011-3-28,2011-3-30,Boston Celtics,Indiana Pacers
+2011-3-28,2011-3-30,Orlando Magic,New York Knicks
+2011-3-28,2011-3-30,Philadelphia 76ers,Chicago Bulls
+2011-3-28,2011-3-30,Portland Trail Blazers,San Antonio Spurs
+2011-3-28,2011-3-30,Washington Wizards,Utah Jazz
+2011-3-29,2011-3-31,Miami Heat,Cleveland Cavaliers
+2011-3-29,2011-3-31,Houston Rockets,New Jersey Nets
+2011-3-29,2011-3-31,Golden State Warriors,Oklahoma City Thunder
+2011-3-29,2011-3-31,Phoenix Suns,Sacramento Kings
+2011-3-30,2011-4-1,Orlando Magic,Atlanta Hawks
+2011-3-30,2011-4-1,Cleveland Cavaliers,Charlotte Bobcats
+2011-3-30,2011-4-1,Detroit Pistons,Indiana Pacers
+2011-3-30,2011-4-1,Houston Rockets,Philadelphia 76ers
+2011-3-30,2011-4-1,Milwaukee Bucks,Toronto Raptors
+2011-3-30,2011-4-1,Miami Heat,Washington Wizards
+2011-3-30,2011-4-1,New Jersey Nets,New York Knicks
+2011-3-30,2011-4-1,Golden State Warriors,Memphis Grizzlies
+2011-3-30,2011-4-1,Chicago Bulls,Minnesota Timberwolves
+2011-3-30,2011-4-1,Portland Trail Blazers,New Orleans Hornets
+2011-3-30,2011-4-1,Sacramento Kings,Denver Nuggets
+2011-3-30,2011-4-1,Oklahoma City Thunder,Phoenix Suns
+2011-3-30,2011-4-1,Dallas Mavericks,Los Angeles Clippers
+2011-3-31,2011-4-2,Boston Celtics,San Antonio Spurs
+2011-3-31,2011-4-2,Dallas Mavericks,Los Angeles Lakers
+2011-4-1,2011-4-3,Milwaukee Bucks,Indiana Pacers
+2011-4-1,2011-4-3,Charlotte Bobcats,Orlando Magic
+2011-4-1,2011-4-3,New Jersey Nets,Philadelphia 76ers
+2011-4-1,2011-4-3,Cleveland Cavaliers,Washington Wizards
+2011-4-1,2011-4-3,Chicago Bulls,Detroit Pistons
+2011-4-1,2011-4-3,Boston Celtics,Atlanta Hawks
+2011-4-1,2011-4-3,Miami Heat,Minnesota Timberwolves
+2011-4-1,2011-4-3,Memphis Grizzlies,New Orleans Hornets
+2011-4-1,2011-4-3,San Antonio Spurs,Houston Rockets
+2011-4-1,2011-4-3,Los Angeles Clippers,Phoenix Suns
+2011-4-1,2011-4-3,Oklahoma City Thunder,Portland Trail Blazers
+2011-4-1,2011-4-3,Denver Nuggets,Sacramento Kings
+2011-4-1,2011-4-3,Los Angeles Lakers,Utah Jazz
+2011-4-2,2011-4-4,Toronto Raptors,Chicago Bulls
+2011-4-2,2011-4-4,Minnesota Timberwolves,Memphis Grizzlies
+2011-4-2,2011-4-4,Philadelphia 76ers,Milwaukee Bucks
+2011-4-2,2011-4-4,Dallas Mavericks,Golden State Warriors
+2011-4-2,2011-4-4,Oklahoma City Thunder,Los Angeles Clippers
+2011-4-3,2011-4-5,Phoenix Suns,San Antonio Spurs
+2011-4-3,2011-4-5,Denver Nuggets,Los Angeles Lakers
+2011-4-3,2011-4-5,Detroit Pistons,Boston Celtics
+2011-4-3,2011-4-5,Washington Wizards,Charlotte Bobcats
+2011-4-3,2011-4-5,Miami Heat,New Jersey Nets
+2011-4-3,2011-4-5,Cleveland Cavaliers,New York Knicks
+2011-4-3,2011-4-5,Utah Jazz,Sacramento Kings
+2011-4-3,2011-4-5,Orlando Magic,Toronto Raptors
+2011-4-3,2011-4-5,Atlanta Hawks,Houston Rockets
+2011-4-3,2011-4-5,Indiana Pacers,New Orleans Hornets
+2011-4-3,2011-4-5,Dallas Mavericks,Portland Trail Blazers
+2011-4-5,2011-4-7,San Antonio Spurs,Atlanta Hawks
+2011-4-5,2011-4-7,Charlotte Bobcats,Cleveland Cavaliers
+2011-4-5,2011-4-7,Minnesota Timberwolves,New Jersey Nets
+2011-4-5,2011-4-7,Milwaukee Bucks,Orlando Magic
+2011-4-5,2011-4-7,Detroit Pistons,Washington Wizards
+2011-4-5,2011-4-7,Philadelphia 76ers,Boston Celtics
+2011-4-5,2011-4-7,Toronto Raptors,New York Knicks
+2011-4-5,2011-4-7,Phoenix Suns,Chicago Bulls
+2011-4-5,2011-4-7,Los Angeles Clippers,Memphis Grizzlies
+2011-4-5,2011-4-7,Sacramento Kings,Houston Rockets
+2011-4-5,2011-4-7,Oklahoma City Thunder,Denver Nuggets
+2011-4-5,2011-4-7,Golden State Warriors,Portland Trail Blazers
+2011-4-5,2011-4-7,Utah Jazz,Los Angeles Lakers
+2011-4-6,2011-4-8,Orlando Magic,Charlotte Bobcats
+2011-4-6,2011-4-8,Washington Wizards,Indiana Pacers
+2011-4-6,2011-4-8,New York Knicks,Philadelphia 76ers
+2011-4-6,2011-4-8,Cleveland Cavaliers,Toronto Raptors
+2011-4-6,2011-4-8,New Jersey Nets,Detroit Pistons
+2011-4-6,2011-4-8,Milwaukee Bucks,Miami Heat
+2011-4-6,2011-4-8,Phoenix Suns,Minnesota Timberwolves
+2011-4-6,2011-4-8,Houston Rockets,New Orleans Hornets
+2011-4-6,2011-4-8,Los Angeles Clippers,Oklahoma City Thunder
+2011-4-6,2011-4-8,Denver Nuggets,Dallas Mavericks
+2011-4-6,2011-4-8,Sacramento Kings,San Antonio Spurs
+2011-4-6,2011-4-8,Los Angeles Lakers,Golden State Warriors
+2011-4-7,2011-4-9,Boston Celtics,Chicago Bulls
+2011-4-7,2011-4-9,Portland Trail Blazers,Utah Jazz
+2011-4-8,2011-4-10,Atlanta Hawks,Indiana Pacers
+2011-4-8,2011-4-10,New York Knicks,New Jersey Nets
+2011-4-8,2011-4-10,Toronto Raptors,Philadelphia 76ers
+2011-4-8,2011-4-10,Washington Wizards,Boston Celtics
+2011-4-8,2011-4-10,Chicago Bulls,Cleveland Cavaliers
+2011-4-8,2011-4-10,Milwaukee Bucks,Detroit Pistons
+2011-4-8,2011-4-10,Charlotte Bobcats,Miami Heat
+2011-4-8,2011-4-10,Sacramento Kings,Memphis Grizzlies
+2011-4-8,2011-4-10,Phoenix Suns,New Orleans Hornets
+2011-4-8,2011-4-10,Denver Nuggets,Oklahoma City Thunder
+2011-4-8,2011-4-10,Los Angeles Clippers,Dallas Mavericks
+2011-4-8,2011-4-10,Los Angeles Lakers,Portland Trail Blazers
+2011-4-9,2011-4-11,Atlanta Hawks,Washington Wizards
+2011-4-9,2011-4-11,Los Angeles Clippers,Houston Rockets
+2011-4-9,2011-4-11,Cleveland Cavaliers,Milwaukee Bucks
+2011-4-9,2011-4-11,Utah Jazz,San Antonio Spurs
+2011-4-9,2011-4-11,Minnesota Timberwolves,Denver Nuggets
+2011-4-10,2011-4-12,Chicago Bulls,Orlando Magic
+2011-4-10,2011-4-12,Boston Celtics,Miami Heat
+2011-4-10,2011-4-12,Detroit Pistons,Charlotte Bobcats
+2011-4-10,2011-4-12,New Orleans Hornets,Memphis Grizzlies
+2011-4-10,2011-4-12,New Jersey Nets,Toronto Raptors
+2011-4-10,2011-4-12,New York Knicks,Indiana Pacers
+2011-4-10,2011-4-12,Phoenix Suns,Dallas Mavericks
+2011-4-10,2011-4-12,Sacramento Kings,Golden State Warriors
+2011-4-10,2011-4-12,Oklahoma City Thunder,Los Angeles Lakers
+2011-4-11,2011-4-13,Miami Heat,Atlanta Hawks
+2011-4-11,2011-4-13,Charlotte Bobcats,New Jersey Nets
+2011-4-11,2011-4-13,Orlando Magic,Philadelphia 76ers
+2011-4-11,2011-4-13,Boston Celtics,Washington Wizards
+2011-4-11,2011-4-13,Cleveland Cavaliers,Detroit Pistons
+2011-4-11,2011-4-13,Toronto Raptors,Milwaukee Bucks
+2011-4-11,2011-4-13,Utah Jazz,New Orleans Hornets
+2011-4-11,2011-4-13,Dallas Mavericks,Houston Rockets
+2011-4-11,2011-4-13,Golden State Warriors,Denver Nuggets
+2011-4-11,2011-4-13,Minnesota Timberwolves,Phoenix Suns
+2011-4-11,2011-4-13,Oklahoma City Thunder,Sacramento Kings
+2011-4-12,2011-4-14,Chicago Bulls,New York Knicks
+2011-4-12,2011-4-14,Memphis Grizzlies,Portland Trail Blazers
+2011-4-12,2011-4-14,San Antonio Spurs,Los Angeles Lakers
+2011-4-13,2011-4-15,New York Knicks,Boston Celtics
+2011-4-13,2011-4-15,Atlanta Hawks,Charlotte Bobcats
+2011-4-13,2011-4-15,New Jersey Nets,Chicago Bulls
+2011-4-13,2011-4-15,Washington Wizards,Cleveland Cavaliers
+2011-4-13,2011-4-15,New Orleans Hornets,Dallas Mavericks
+2011-4-13,2011-4-15,Houston Rockets,Minnesota Timberwolves
+2011-4-13,2011-4-15,Milwaukee Bucks,Oklahoma City Thunder
+2011-4-13,2011-4-15,Indiana Pacers,Orlando Magic
+2011-4-13,2011-4-15,Detroit Pistons,Philadelphia 76ers
+2011-4-13,2011-4-15,Miami Heat,Toronto Raptors
+2011-4-13,2011-4-15,Denver Nuggets,Utah Jazz
+2011-4-13,2011-4-15,Portland Trail Blazers,Golden State Warriors
+2011-4-13,2011-4-15,Memphis Grizzlies,Los Angeles Clippers
+2011-4-13,2011-4-15,San Antonio Spurs,Phoenix Suns
+2011-4-13,2011-4-15,Los Angeles Lakers,Sacramento Kings
+2011-4-16,2011-4-18,Indiana Pacers,Chicago Bulls
+2011-4-16,2011-4-18,Philadelphia 76ers,Miami Heat
+2011-4-16,2011-4-18,Atlanta Hawks,Orlando Magic
+2011-4-16,2011-4-18,Portland Trail Blazers,Dallas Mavericks
+2011-4-17,2011-4-19,Memphis Grizzlies,San Antonio Spurs
+2011-4-17,2011-4-19,New Orleans Hornets,Los Angeles Lakers
+2011-4-17,2011-4-19,New York Knicks,Boston Celtics
+2011-4-17,2011-4-19,Denver Nuggets,Oklahoma City Thunder
+2011-4-18,2011-4-20,Philadelphia 76ers,Miami Heat
+2011-4-18,2011-4-20,Indiana Pacers,Chicago Bulls
+2011-4-19,2011-4-21,New York Knicks,Boston Celtics
+2011-4-19,2011-4-21,Atlanta Hawks,Orlando Magic
+2011-4-19,2011-4-21,Portland Trail Blazers,Dallas Mavericks
+2011-4-20,2011-4-22,Denver Nuggets,Oklahoma City Thunder
+2011-4-20,2011-4-22,Memphis Grizzlies,San Antonio Spurs
+2011-4-20,2011-4-22,New Orleans Hornets,Los Angeles Lakers
+2011-4-21,2011-4-23,Chicago Bulls,Indiana Pacers
+2011-4-21,2011-4-23,Miami Heat,Philadelphia 76ers
+2011-4-21,2011-4-23,Dallas Mavericks,Portland Trail Blazers
+2011-4-22,2011-4-24,Boston Celtics,New York Knicks
+2011-4-22,2011-4-24,Orlando Magic,Atlanta Hawks
+2011-4-22,2011-4-24,Los Angeles Lakers,New Orleans Hornets
+2011-4-23,2011-4-25,Chicago Bulls,Indiana Pacers
+2011-4-23,2011-4-25,Dallas Mavericks,Portland Trail Blazers
+2011-4-23,2011-4-25,San Antonio Spurs,Memphis Grizzlies
+2011-4-23,2011-4-25,Oklahoma City Thunder,Denver Nuggets
+2011-4-24,2011-4-26,Miami Heat,Philadelphia 76ers
+2011-4-24,2011-4-26,Boston Celtics,New York Knicks
+2011-4-24,2011-4-26,Orlando Magic,Atlanta Hawks
+2011-4-24,2011-4-26,Los Angeles Lakers,New Orleans Hornets
+2011-4-25,2011-4-27,San Antonio Spurs,Memphis Grizzlies
+2011-4-25,2011-4-27,Portland Trail Blazers,Dallas Mavericks
+2011-4-25,2011-4-27,Oklahoma City Thunder,Denver Nuggets
+2011-4-26,2011-4-28,Atlanta Hawks,Orlando Magic
+2011-4-26,2011-4-28,Indiana Pacers,Chicago Bulls
+2011-4-26,2011-4-28,New Orleans Hornets,Los Angeles Lakers
+2011-4-27,2011-4-29,Philadelphia 76ers,Miami Heat
+2011-4-27,2011-4-29,Memphis Grizzlies,San Antonio Spurs
+2011-4-27,2011-4-29,Denver Nuggets,Oklahoma City Thunder
+2011-4-28,2011-4-30,Orlando Magic,Atlanta Hawks
+2011-4-28,2011-4-30,Los Angeles Lakers,New Orleans Hornets
+2011-4-28,2011-4-30,Dallas Mavericks,Portland Trail Blazers
+2011-4-29,2011-5-1,San Antonio Spurs,Memphis Grizzlies
+2011-5-1,2011-5-3,Memphis Grizzlies,Oklahoma City Thunder
+2011-5-1,2011-5-3,Boston Celtics,Miami Heat
+2011-5-2,2011-5-4,Atlanta Hawks,Chicago Bulls
+2011-5-2,2011-5-4,Dallas Mavericks,Los Angeles Lakers
+2011-5-3,2011-5-5,Boston Celtics,Miami Heat
+2011-5-3,2011-5-5,Memphis Grizzlies,Oklahoma City Thunder
+2011-5-4,2011-5-6,Atlanta Hawks,Chicago Bulls
+2011-5-4,2011-5-6,Dallas Mavericks,Los Angeles Lakers
+2011-5-6,2011-5-8,Chicago Bulls,Atlanta Hawks
+2011-5-6,2011-5-8,Los Angeles Lakers,Dallas Mavericks
+2011-5-7,2011-5-9,Oklahoma City Thunder,Memphis Grizzlies
+2011-5-7,2011-5-9,Miami Heat,Boston Celtics
+2011-5-8,2011-5-10,Los Angeles Lakers,Dallas Mavericks
+2011-5-8,2011-5-10,Chicago Bulls,Atlanta Hawks
+2011-5-9,2011-5-11,Miami Heat,Boston Celtics
+2011-5-9,2011-5-11,Oklahoma City Thunder,Memphis Grizzlies
+2011-5-10,2011-5-12,Atlanta Hawks,Chicago Bulls
+2011-5-11,2011-5-13,Boston Celtics,Miami Heat
+2011-5-11,2011-5-13,Memphis Grizzlies,Oklahoma City Thunder
+2011-5-12,2011-5-14,Chicago Bulls,Atlanta Hawks
+2011-5-13,2011-5-15,Oklahoma City Thunder,Memphis Grizzlies
+2011-5-15,2011-5-17,Memphis Grizzlies,Oklahoma City Thunder
+2011-5-15,2011-5-17,Miami Heat,Chicago Bulls
+2011-5-17,2011-5-19,Oklahoma City Thunder,Dallas Mavericks
+2011-5-18,2011-5-20,Miami Heat,Chicago Bulls
+2011-5-19,2011-5-21,Oklahoma City Thunder,Dallas Mavericks
+2011-5-21,2011-5-23,Dallas Mavericks,Oklahoma City Thunder
+2011-5-22,2011-5-24,Chicago Bulls,Miami Heat
+2011-5-23,2011-5-25,Dallas Mavericks,Oklahoma City Thunder
+2011-5-24,2011-5-26,Chicago Bulls,Miami Heat
+2011-5-25,2011-5-27,Oklahoma City Thunder,Dallas Mavericks
+2011-5-26,2011-5-28,Miami Heat,Chicago Bulls
+2011-5-31,2011-6-2,Dallas Mavericks,Miami Heat
+2011-6-2,2011-6-4,Dallas Mavericks,Miami Heat
+2011-6-5,2011-6-7,Miami Heat,Dallas Mavericks
+2011-6-7,2011-6-9,Miami Heat,Dallas Mavericks
+2011-6-9,2011-6-11,Miami Heat,Dallas Mavericks
+2011-6-12,2011-6-14,Dallas Mavericks,Miami Heat
