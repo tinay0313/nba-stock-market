@@ -27,4 +27,4 @@ final_input_data/input_matrix.csv
 
 The Neural Net Model is then ran on the "input_matrix.csv" file using RapidMiner.
 
-Please see the report for final results and discussion.
+Please see the report "BDS_Project.pdf" for final results and discussion.
